@@ -1,0 +1,1001 @@
+asset_id,asset_type,manufacturer,department,asset_age,usage_hours,maintenance_count,maintenance_cost,breakdown_count,last_service_days,status,warranty,failure
+1,ECG Machine,Drager,Radiology,9,18825,9,4138,0,330,Working,No,1
+2,Infusion Pump,GE Healthcare,Emergency,3,4315,12,11204,3,279,Under Maintenance,Yes,1
+3,MRI Scanner,Mindray,Radiology,5,815,14,13583,4,171,Out of Service,Yes,1
+4,Ventilator,Mindray,Operation Theatre,5,9056,6,7727,6,140,Working,Yes,1
+5,Ultrasound Machine,Mindray,Emergency,8,3766,6,11952,6,64,Out of Service,Yes,1
+6,Ventilator,Mindray,Radiology,6,23711,9,10345,4,108,Under Maintenance,Yes,1
+7,Infusion Pump,GE Healthcare,Radiology,4,19474,8,13599,7,355,Under Maintenance,No,1
+8,Patient Monitor,Siemens,Operation Theatre,2,20886,9,7845,8,354,Working,Yes,1
+9,MRI Scanner,Drager,Cardiology,2,11828,15,13974,1,7,Working,No,1
+10,MRI Scanner,GE Healthcare,Radiology,10,13580,14,7626,10,125,Working,No,1
+11,ECG Machine,GE Healthcare,Radiology,2,13078,4,7760,10,324,Out of Service,Yes,1
+12,Infusion Pump,Mindray,Cardiology,5,13411,6,5003,10,306,Under Maintenance,Yes,1
+13,Defibrillator,Mindray,Radiology,10,17007,6,9270,3,224,Under Maintenance,Yes,1
+14,Patient Monitor,Mindray,ICU,7,18605,15,12210,1,175,Under Maintenance,Yes,1
+15,Ventilator,Philips,Emergency,9,21463,10,1562,6,242,Under Maintenance,Yes,1
+16,Patient Monitor,Siemens,Emergency,10,10273,6,12965,6,58,Under Maintenance,No,1
+17,Infusion Pump,Drager,ICU,7,6514,8,4768,0,15,Working,No,1
+18,ECG Machine,Philips,Operation Theatre,4,10009,11,14728,2,10,Out of Service,Yes,1
+19,ECG Machine,Philips,Emergency,9,21320,7,6668,5,170,Under Maintenance,Yes,1
+20,Defibrillator,Mindray,Operation Theatre,7,4474,3,8938,2,140,Out of Service,Yes,1
+21,Infusion Pump,Drager,Emergency,4,22935,10,7527,9,32,Under Maintenance,Yes,1
+22,Ventilator,GE Healthcare,Radiology,6,12748,3,1142,6,125,Under Maintenance,No,1
+23,Ultrasound Machine,GE Healthcare,Cardiology,9,15291,2,11952,10,39,Working,No,1
+24,Patient Monitor,Philips,Radiology,2,18844,2,8370,1,44,Out of Service,No,1
+25,Patient Monitor,Mindray,Cardiology,2,1692,6,5406,8,126,Working,Yes,1
+26,ECG Machine,Philips,Cardiology,9,23519,10,5737,0,272,Working,Yes,1
+27,ECG Machine,Siemens,Operation Theatre,2,3435,7,9144,7,219,Under Maintenance,No,1
+28,MRI Scanner,GE Healthcare,Emergency,5,17556,14,14290,8,2,Working,No,1
+29,Defibrillator,GE Healthcare,Radiology,9,16904,8,10807,6,11,Under Maintenance,Yes,1
+30,Infusion Pump,Mindray,Emergency,7,22725,7,4185,5,153,Working,No,1
+31,Patient Monitor,Drager,ICU,3,21544,8,7926,2,259,Under Maintenance,Yes,0
+32,MRI Scanner,GE Healthcare,Cardiology,10,6536,8,6554,8,49,Out of Service,Yes,1
+33,MRI Scanner,Siemens,Radiology,6,10538,7,9951,1,231,Working,Yes,1
+34,Defibrillator,Philips,Cardiology,8,19332,15,10073,1,225,Working,No,1
+35,Ventilator,Philips,Operation Theatre,3,23087,6,6759,1,251,Working,Yes,0
+36,Defibrillator,Mindray,ICU,9,18811,2,3238,9,46,Working,Yes,1
+37,ECG Machine,GE Healthcare,Operation Theatre,6,6602,12,7264,7,135,Working,Yes,1
+38,Defibrillator,Drager,ICU,2,10386,4,7906,1,141,Out of Service,No,1
+39,Ultrasound Machine,Drager,ICU,10,13804,9,8138,8,50,Out of Service,Yes,1
+40,CT Scanner,Drager,Emergency,3,22450,11,13732,5,301,Working,Yes,1
+41,Infusion Pump,GE Healthcare,Radiology,1,22264,9,12896,8,194,Out of Service,Yes,1
+42,CT Scanner,Mindray,Radiology,1,12957,9,3537,2,99,Out of Service,Yes,1
+43,CT Scanner,Mindray,Operation Theatre,2,14658,5,11097,0,69,Under Maintenance,No,1
+44,ECG Machine,Mindray,Operation Theatre,2,19048,5,13715,4,2,Working,No,1
+45,MRI Scanner,GE Healthcare,Radiology,3,23367,3,1998,7,76,Working,Yes,1
+46,Patient Monitor,Drager,Cardiology,5,11522,9,14036,8,266,Under Maintenance,Yes,1
+47,Infusion Pump,Siemens,Operation Theatre,10,19519,1,8629,2,17,Working,Yes,1
+48,ECG Machine,GE Healthcare,ICU,2,7551,15,1623,9,229,Out of Service,No,1
+49,Infusion Pump,Philips,Operation Theatre,5,23179,5,6783,4,299,Out of Service,Yes,1
+50,Ultrasound Machine,Philips,Operation Theatre,7,19415,4,8330,3,283,Working,Yes,1
+51,ECG Machine,GE Healthcare,Emergency,8,17800,11,4011,2,138,Out of Service,No,1
+52,Infusion Pump,Mindray,Radiology,3,2559,5,2053,10,62,Out of Service,No,1
+53,Ultrasound Machine,Drager,Operation Theatre,2,24278,1,12448,10,101,Under Maintenance,Yes,1
+54,Ventilator,Mindray,Emergency,5,15545,6,7221,8,305,Working,No,1
+55,Ventilator,Drager,Emergency,1,16332,6,6212,7,331,Working,No,1
+56,Infusion Pump,GE Healthcare,Radiology,5,19504,2,8677,5,81,Under Maintenance,Yes,1
+57,Infusion Pump,Siemens,Emergency,9,16986,15,4888,0,357,Out of Service,No,1
+58,Defibrillator,Mindray,Radiology,5,19658,10,8623,6,81,Working,Yes,1
+59,Ultrasound Machine,GE Healthcare,Emergency,7,7861,5,2549,0,232,Under Maintenance,Yes,1
+60,MRI Scanner,GE Healthcare,Emergency,1,5455,14,10878,0,287,Under Maintenance,Yes,1
+61,Infusion Pump,Philips,Operation Theatre,5,5294,8,1081,0,42,Working,Yes,0
+62,Ultrasound Machine,Mindray,Cardiology,9,19265,9,6078,3,306,Under Maintenance,No,1
+63,Ventilator,GE Healthcare,Emergency,6,4029,7,14476,6,322,Out of Service,No,1
+64,ECG Machine,GE Healthcare,ICU,6,7439,13,13998,2,25,Working,Yes,1
+65,MRI Scanner,Mindray,Radiology,5,22882,10,9624,0,21,Working,No,1
+66,Defibrillator,GE Healthcare,Emergency,1,13996,15,6555,4,180,Working,Yes,0
+67,Defibrillator,Drager,Emergency,7,24988,14,13561,9,224,Working,No,1
+68,Ultrasound Machine,Drager,Radiology,10,5078,15,10261,5,346,Out of Service,Yes,1
+69,Patient Monitor,GE Healthcare,Emergency,1,20916,12,7895,5,353,Under Maintenance,Yes,1
+70,CT Scanner,GE Healthcare,Radiology,8,20509,14,3779,0,264,Working,Yes,1
+71,Defibrillator,GE Healthcare,Radiology,6,20262,12,3602,8,197,Under Maintenance,Yes,1
+72,Infusion Pump,Siemens,Radiology,8,24926,2,3468,6,56,Under Maintenance,Yes,1
+73,ECG Machine,GE Healthcare,Emergency,9,21408,9,6415,10,99,Under Maintenance,Yes,1
+74,Ultrasound Machine,Philips,ICU,4,15313,6,7537,10,48,Out of Service,No,1
+75,CT Scanner,Mindray,ICU,9,4450,12,2016,8,198,Under Maintenance,No,1
+76,ECG Machine,Siemens,Cardiology,1,23514,5,4906,7,307,Out of Service,No,1
+77,MRI Scanner,Siemens,Emergency,6,9822,10,2094,4,9,Out of Service,No,1
+78,Infusion Pump,Drager,Emergency,6,3141,14,5047,3,280,Working,Yes,0
+79,Defibrillator,Drager,Emergency,5,5395,5,4952,1,297,Out of Service,Yes,1
+80,CT Scanner,Siemens,ICU,3,12871,13,3530,2,205,Under Maintenance,Yes,0
+81,Ventilator,Mindray,Cardiology,9,15929,14,4091,8,169,Out of Service,Yes,1
+82,MRI Scanner,Mindray,Emergency,7,15302,8,2496,0,70,Under Maintenance,Yes,1
+83,Infusion Pump,Philips,Operation Theatre,4,20683,5,11918,3,218,Under Maintenance,No,1
+84,Infusion Pump,GE Healthcare,ICU,6,24148,5,3928,4,315,Working,No,0
+85,Ultrasound Machine,Philips,Emergency,8,13012,6,3659,3,221,Working,Yes,1
+86,Ventilator,Siemens,Cardiology,9,14750,9,11208,6,352,Out of Service,No,1
+87,MRI Scanner,Mindray,Radiology,9,16382,10,13956,5,331,Out of Service,No,1
+88,Patient Monitor,Siemens,Operation Theatre,10,22436,1,696,4,323,Working,Yes,1
+89,ECG Machine,Mindray,Radiology,3,9830,4,8508,3,52,Working,Yes,1
+90,Patient Monitor,Mindray,ICU,6,24058,7,14491,7,317,Working,Yes,1
+91,MRI Scanner,Mindray,Radiology,4,22044,12,5624,4,40,Working,Yes,0
+92,Defibrillator,GE Healthcare,Radiology,7,8211,14,10267,2,195,Under Maintenance,No,1
+93,Defibrillator,Mindray,Cardiology,1,18063,13,13527,4,113,Under Maintenance,No,1
+94,Infusion Pump,Drager,Operation Theatre,8,13708,3,12927,6,292,Working,Yes,1
+95,CT Scanner,Mindray,Radiology,8,1376,12,5716,3,26,Out of Service,No,1
+96,MRI Scanner,GE Healthcare,Operation Theatre,7,11145,4,3919,3,30,Under Maintenance,No,1
+97,Defibrillator,GE Healthcare,Emergency,6,13559,12,2892,1,332,Under Maintenance,Yes,0
+98,Ventilator,Philips,Emergency,5,3720,3,5781,10,227,Out of Service,Yes,1
+99,Ventilator,Philips,Cardiology,3,22841,8,8765,9,213,Working,No,1
+100,CT Scanner,Drager,Cardiology,6,18615,5,10697,8,171,Working,No,1
+101,ECG Machine,Siemens,Radiology,8,14296,3,10321,4,222,Working,No,1
+102,MRI Scanner,Mindray,ICU,9,23188,6,1711,2,210,Out of Service,Yes,1
+103,Patient Monitor,Mindray,ICU,3,1187,10,4418,8,260,Working,Yes,1
+104,Infusion Pump,Mindray,Cardiology,1,4097,6,5981,9,297,Out of Service,Yes,1
+105,Infusion Pump,Mindray,Cardiology,5,9138,2,14578,0,41,Under Maintenance,No,1
+106,MRI Scanner,Drager,Emergency,5,12670,3,6672,3,86,Out of Service,No,1
+107,Ventilator,Philips,Cardiology,5,11170,11,14881,5,136,Working,Yes,1
+108,Ultrasound Machine,Mindray,Operation Theatre,10,22194,9,2075,9,238,Working,No,1
+109,Defibrillator,Drager,Radiology,6,13037,3,2067,5,356,Under Maintenance,No,1
+110,Ventilator,GE Healthcare,Operation Theatre,6,17175,12,1340,9,76,Out of Service,Yes,1
+111,Patient Monitor,Drager,Cardiology,10,23391,11,5271,4,18,Under Maintenance,No,1
+112,Patient Monitor,GE Healthcare,ICU,4,12671,15,9840,6,329,Under Maintenance,Yes,1
+113,Defibrillator,GE Healthcare,ICU,1,13611,5,12268,9,173,Under Maintenance,Yes,1
+114,MRI Scanner,Siemens,ICU,5,3847,11,11385,1,311,Under Maintenance,Yes,1
+115,ECG Machine,Philips,Operation Theatre,2,4372,15,11974,8,150,Under Maintenance,Yes,1
+116,Defibrillator,Philips,Cardiology,1,20251,14,3403,7,183,Out of Service,Yes,1
+117,Infusion Pump,Mindray,ICU,8,11253,12,8460,10,45,Under Maintenance,No,1
+118,Infusion Pump,GE Healthcare,Radiology,7,13588,13,8762,0,206,Under Maintenance,No,1
+119,Ultrasound Machine,Drager,Cardiology,1,2321,9,7245,9,312,Under Maintenance,Yes,1
+120,Ventilator,Drager,Radiology,1,1428,3,1645,2,337,Out of Service,No,1
+121,Infusion Pump,Philips,Cardiology,9,11471,4,14637,1,361,Under Maintenance,No,1
+122,MRI Scanner,Mindray,Cardiology,8,6432,5,2139,2,355,Under Maintenance,No,1
+123,ECG Machine,Siemens,Operation Theatre,5,3418,7,2354,7,75,Working,No,1
+124,Infusion Pump,GE Healthcare,Operation Theatre,3,24160,6,9979,0,118,Working,Yes,1
+125,ECG Machine,GE Healthcare,Radiology,5,22458,6,2410,6,165,Out of Service,Yes,1
+126,MRI Scanner,Drager,Cardiology,1,4689,12,4032,8,182,Working,No,1
+127,Infusion Pump,Siemens,Radiology,5,12419,5,4234,9,3,Working,Yes,1
+128,CT Scanner,Siemens,Emergency,1,11155,3,14170,7,346,Under Maintenance,Yes,1
+129,Defibrillator,GE Healthcare,Emergency,8,11047,15,12680,2,210,Under Maintenance,Yes,1
+130,MRI Scanner,Philips,Operation Theatre,10,20267,9,10269,6,235,Under Maintenance,Yes,1
+131,Ventilator,Mindray,ICU,1,3016,5,1721,4,348,Working,Yes,0
+132,Defibrillator,Mindray,Emergency,9,16397,10,12850,0,80,Working,No,1
+133,Ultrasound Machine,Mindray,ICU,1,21638,1,6337,3,317,Under Maintenance,No,0
+134,CT Scanner,Siemens,Cardiology,9,19392,5,5961,1,330,Under Maintenance,No,1
+135,Defibrillator,Drager,Emergency,10,22437,2,10475,7,244,Under Maintenance,Yes,1
+136,CT Scanner,Drager,Radiology,8,7708,1,14001,3,221,Working,No,1
+137,Infusion Pump,GE Healthcare,Operation Theatre,7,13715,14,4525,10,279,Working,Yes,1
+138,Infusion Pump,Philips,ICU,3,16809,2,8145,10,9,Working,No,1
+139,Ultrasound Machine,Mindray,ICU,8,1742,4,8222,0,106,Out of Service,No,1
+140,MRI Scanner,GE Healthcare,Cardiology,10,24529,10,14238,9,133,Out of Service,Yes,1
+141,Infusion Pump,Drager,ICU,6,2367,11,7477,5,36,Out of Service,Yes,1
+142,ECG Machine,Drager,Cardiology,7,4142,14,4625,4,278,Out of Service,Yes,1
+143,MRI Scanner,GE Healthcare,Operation Theatre,6,9357,2,4818,9,339,Out of Service,Yes,1
+144,Ventilator,Drager,Operation Theatre,4,12374,8,1189,5,9,Out of Service,Yes,1
+145,Patient Monitor,Siemens,Emergency,8,17467,7,1995,5,43,Out of Service,No,1
+146,MRI Scanner,Siemens,Emergency,1,23822,15,1688,0,247,Under Maintenance,Yes,0
+147,ECG Machine,Philips,Radiology,8,11513,13,584,10,175,Under Maintenance,Yes,1
+148,Ventilator,Siemens,Cardiology,7,4978,8,5062,4,104,Under Maintenance,No,1
+149,Patient Monitor,Drager,Cardiology,6,2804,1,12777,8,337,Under Maintenance,No,1
+150,Ventilator,Mindray,Cardiology,6,8216,2,1592,5,249,Under Maintenance,No,1
+151,Defibrillator,Drager,ICU,4,10621,6,11391,7,129,Working,Yes,1
+152,MRI Scanner,Philips,Cardiology,8,4038,14,13604,8,314,Working,Yes,1
+153,CT Scanner,Drager,Radiology,2,24120,4,1885,5,261,Out of Service,No,1
+154,Ultrasound Machine,Siemens,Cardiology,6,13727,10,646,2,85,Working,Yes,0
+155,Defibrillator,GE Healthcare,Radiology,3,22467,11,1267,1,297,Working,No,0
+156,CT Scanner,Drager,Cardiology,10,24777,3,6003,1,181,Out of Service,No,1
+157,Ultrasound Machine,Siemens,ICU,8,24990,10,8612,8,213,Working,No,1
+158,Ventilator,Philips,ICU,2,9549,3,996,4,146,Under Maintenance,No,0
+159,Defibrillator,Philips,Operation Theatre,9,23278,3,8758,8,358,Under Maintenance,No,1
+160,Defibrillator,Siemens,Cardiology,7,24128,14,9250,5,272,Out of Service,No,1
+161,Defibrillator,Siemens,Emergency,4,16031,15,10548,0,319,Out of Service,No,1
+162,Ventilator,GE Healthcare,Operation Theatre,3,5295,1,4902,7,239,Under Maintenance,Yes,1
+163,Patient Monitor,Drager,Operation Theatre,6,13718,2,12170,5,178,Under Maintenance,No,1
+164,ECG Machine,GE Healthcare,Emergency,4,19705,11,12465,3,212,Out of Service,Yes,1
+165,MRI Scanner,Siemens,Operation Theatre,5,20245,2,6104,10,273,Out of Service,No,1
+166,MRI Scanner,Drager,Emergency,10,2676,12,7810,5,87,Under Maintenance,No,1
+167,Infusion Pump,Siemens,ICU,1,20627,14,2066,10,311,Out of Service,No,1
+168,MRI Scanner,Mindray,Operation Theatre,10,7700,1,13615,0,136,Out of Service,No,1
+169,Infusion Pump,Siemens,Operation Theatre,8,18021,2,12000,4,26,Under Maintenance,No,1
+170,MRI Scanner,GE Healthcare,Cardiology,10,19938,9,8244,6,73,Out of Service,Yes,1
+171,ECG Machine,Mindray,ICU,2,11609,12,2476,2,314,Under Maintenance,Yes,0
+172,Ventilator,Drager,ICU,10,2557,13,1542,2,303,Under Maintenance,No,1
+173,Patient Monitor,GE Healthcare,Cardiology,8,21725,12,11498,10,187,Out of Service,Yes,1
+174,CT Scanner,Philips,Emergency,10,14184,8,5734,1,308,Out of Service,Yes,1
+175,ECG Machine,Drager,ICU,4,17127,10,13309,7,95,Under Maintenance,No,1
+176,Defibrillator,GE Healthcare,Emergency,4,5065,11,5491,9,148,Working,Yes,1
+177,Patient Monitor,Philips,Emergency,3,4763,7,5319,8,355,Out of Service,Yes,1
+178,CT Scanner,Mindray,Operation Theatre,7,15757,2,9646,2,43,Out of Service,No,1
+179,Infusion Pump,GE Healthcare,Radiology,4,21390,15,809,4,275,Under Maintenance,No,0
+180,Patient Monitor,Siemens,Operation Theatre,5,11852,4,8900,8,95,Out of Service,No,1
+181,Defibrillator,Drager,ICU,9,24545,15,6199,2,148,Out of Service,No,1
+182,Ultrasound Machine,Philips,Emergency,4,10085,4,7622,8,275,Under Maintenance,No,1
+183,Ventilator,Mindray,ICU,9,2878,10,13419,9,340,Working,No,1
+184,CT Scanner,Philips,Radiology,5,15720,1,12011,4,142,Under Maintenance,No,1
+185,Defibrillator,Siemens,Cardiology,2,3993,5,8693,8,43,Working,No,1
+186,Ventilator,Philips,Cardiology,8,15425,1,673,5,325,Under Maintenance,Yes,1
+187,Patient Monitor,Siemens,Radiology,1,9369,7,10398,9,151,Under Maintenance,No,1
+188,Patient Monitor,GE Healthcare,Radiology,3,7204,3,14125,1,148,Out of Service,Yes,1
+189,Patient Monitor,GE Healthcare,Cardiology,9,8028,9,13743,7,258,Out of Service,No,1
+190,CT Scanner,GE Healthcare,Operation Theatre,10,4913,7,4827,5,192,Working,No,1
+191,Defibrillator,Mindray,Emergency,1,18837,10,10421,5,168,Out of Service,Yes,1
+192,Ventilator,GE Healthcare,Radiology,7,10928,9,12602,2,268,Under Maintenance,No,1
+193,Patient Monitor,Drager,Operation Theatre,9,5888,8,9891,7,248,Out of Service,Yes,1
+194,Ventilator,GE Healthcare,ICU,7,1626,9,5486,9,309,Out of Service,No,1
+195,Ultrasound Machine,Mindray,ICU,4,4042,11,4742,3,241,Out of Service,No,1
+196,Defibrillator,Mindray,Cardiology,2,20623,5,11360,10,36,Under Maintenance,Yes,1
+197,CT Scanner,Drager,ICU,6,16390,13,5626,1,263,Working,No,0
+198,Ventilator,Siemens,Operation Theatre,4,16591,6,2640,10,28,Out of Service,Yes,1
+199,Ventilator,GE Healthcare,Emergency,8,7844,10,14796,9,361,Working,No,1
+200,Ultrasound Machine,Mindray,Operation Theatre,4,6986,9,4711,8,297,Out of Service,Yes,1
+201,Ultrasound Machine,GE Healthcare,Radiology,9,14827,11,1467,2,170,Working,No,1
+202,Ultrasound Machine,GE Healthcare,Radiology,8,19394,15,8975,3,350,Under Maintenance,Yes,1
+203,MRI Scanner,Drager,Operation Theatre,7,4439,8,4131,7,117,Out of Service,No,1
+204,ECG Machine,Siemens,Radiology,6,18411,2,9411,4,359,Out of Service,Yes,1
+205,CT Scanner,Drager,Operation Theatre,4,18769,14,4257,1,352,Under Maintenance,No,0
+206,CT Scanner,Mindray,Cardiology,2,7197,10,4173,7,211,Working,Yes,1
+207,Ventilator,Philips,Emergency,1,10234,13,9521,8,361,Under Maintenance,Yes,1
+208,Infusion Pump,Siemens,ICU,10,21933,6,2828,3,255,Working,No,1
+209,Ventilator,Siemens,Radiology,9,23650,5,9991,0,221,Working,Yes,1
+210,ECG Machine,Siemens,Cardiology,3,5785,13,7385,2,193,Out of Service,No,1
+211,Patient Monitor,Philips,Emergency,2,4996,3,5187,6,170,Working,No,1
+212,Patient Monitor,Siemens,Emergency,10,3243,3,7729,10,79,Under Maintenance,Yes,1
+213,MRI Scanner,GE Healthcare,Cardiology,3,15846,3,4095,9,325,Out of Service,No,1
+214,Ultrasound Machine,GE Healthcare,Operation Theatre,10,9167,7,4634,1,94,Working,Yes,1
+215,Defibrillator,Siemens,Operation Theatre,6,9611,4,3219,7,52,Out of Service,Yes,1
+216,CT Scanner,Mindray,ICU,10,17903,9,9826,2,37,Working,Yes,1
+217,Ultrasound Machine,Siemens,Cardiology,7,11239,9,13511,10,11,Working,No,1
+218,Defibrillator,Philips,Cardiology,1,7877,5,5950,5,343,Out of Service,No,1
+219,Ventilator,Siemens,Radiology,3,13294,11,10292,3,180,Out of Service,Yes,1
+220,CT Scanner,Siemens,Operation Theatre,8,2142,1,9815,0,101,Out of Service,No,1
+221,Defibrillator,GE Healthcare,Cardiology,2,6214,6,5317,4,257,Out of Service,No,1
+222,ECG Machine,Drager,Emergency,9,10043,15,8265,0,330,Under Maintenance,No,1
+223,Patient Monitor,Drager,Cardiology,7,12776,10,10463,2,62,Out of Service,No,1
+224,Ultrasound Machine,Philips,ICU,5,6731,1,5099,0,311,Working,No,0
+225,Patient Monitor,Drager,Operation Theatre,8,19054,9,13509,1,116,Working,No,1
+226,Defibrillator,GE Healthcare,Operation Theatre,5,8391,13,11128,8,107,Under Maintenance,No,1
+227,Ultrasound Machine,Siemens,Cardiology,7,13439,1,8798,10,230,Out of Service,Yes,1
+228,CT Scanner,Drager,Radiology,3,17591,4,4029,10,226,Under Maintenance,Yes,1
+229,MRI Scanner,Philips,Cardiology,10,2520,10,3046,2,189,Working,No,1
+230,Patient Monitor,GE Healthcare,ICU,2,595,5,3557,5,357,Out of Service,Yes,1
+231,Ventilator,Siemens,Cardiology,1,18997,11,599,8,293,Out of Service,Yes,1
+232,ECG Machine,Drager,Radiology,6,2548,1,5467,10,291,Under Maintenance,No,1
+233,ECG Machine,Mindray,Emergency,10,6998,3,13056,4,274,Working,Yes,1
+234,Patient Monitor,Mindray,Operation Theatre,3,18755,6,3414,8,280,Working,No,1
+235,Ventilator,Mindray,Radiology,9,20791,15,1778,5,188,Out of Service,No,1
+236,MRI Scanner,Siemens,Radiology,6,13923,10,2525,4,172,Under Maintenance,Yes,0
+237,MRI Scanner,Drager,Radiology,8,9065,10,12024,8,87,Under Maintenance,No,1
+238,Ventilator,Siemens,Emergency,8,14466,6,8275,6,243,Under Maintenance,No,1
+239,Ventilator,Mindray,ICU,7,24580,2,3976,5,166,Working,No,1
+240,Ventilator,Drager,ICU,6,7852,12,1532,6,199,Working,Yes,1
+241,ECG Machine,Philips,Cardiology,9,18249,12,9604,0,305,Under Maintenance,No,1
+242,Defibrillator,Philips,Emergency,10,1506,3,907,3,321,Working,Yes,1
+243,MRI Scanner,Philips,Operation Theatre,1,10998,2,4536,2,86,Under Maintenance,No,0
+244,CT Scanner,Mindray,Emergency,1,20512,11,14568,8,33,Out of Service,Yes,1
+245,Ventilator,Drager,Emergency,7,17433,7,8435,0,180,Out of Service,No,1
+246,Patient Monitor,GE Healthcare,Cardiology,5,4519,12,5795,1,303,Under Maintenance,Yes,0
+247,Ultrasound Machine,Mindray,Cardiology,9,24764,14,4671,0,12,Out of Service,No,1
+248,Patient Monitor,Siemens,Operation Theatre,7,19140,1,11538,6,254,Out of Service,Yes,1
+249,ECG Machine,Mindray,Radiology,8,14540,3,10374,5,252,Working,No,1
+250,ECG Machine,Mindray,Emergency,6,21544,14,12101,2,192,Out of Service,No,1
+251,MRI Scanner,Philips,Emergency,7,13147,6,5450,9,316,Under Maintenance,Yes,1
+252,Defibrillator,GE Healthcare,Emergency,1,7339,10,6258,3,227,Under Maintenance,Yes,0
+253,Ultrasound Machine,Siemens,ICU,1,24594,11,5713,2,293,Out of Service,No,1
+254,ECG Machine,GE Healthcare,Emergency,9,21048,2,6984,0,292,Under Maintenance,Yes,1
+255,Infusion Pump,Drager,Emergency,9,16106,10,12722,10,336,Working,No,1
+256,Ventilator,Drager,Operation Theatre,8,16915,13,4543,10,174,Working,No,1
+257,Ventilator,Drager,Cardiology,9,18020,4,11228,7,124,Under Maintenance,No,1
+258,Infusion Pump,GE Healthcare,ICU,5,22825,15,2433,8,122,Under Maintenance,No,1
+259,Infusion Pump,GE Healthcare,Radiology,2,1709,14,3998,0,155,Working,No,0
+260,ECG Machine,Philips,Operation Theatre,3,7640,12,11077,2,53,Working,No,1
+261,Patient Monitor,Drager,Cardiology,6,1925,15,3391,2,210,Under Maintenance,No,0
+262,Ventilator,Drager,Cardiology,1,19761,4,6340,4,239,Out of Service,No,1
+263,Ultrasound Machine,GE Healthcare,Radiology,2,17078,5,4281,10,179,Working,No,1
+264,Ventilator,Drager,ICU,3,10651,12,3244,6,234,Working,Yes,1
+265,Patient Monitor,Siemens,Emergency,10,22412,10,3298,10,125,Out of Service,Yes,1
+266,MRI Scanner,Drager,Cardiology,8,24906,6,10534,0,287,Under Maintenance,No,1
+267,Patient Monitor,Siemens,Radiology,5,20931,10,12891,1,264,Working,Yes,1
+268,Ultrasound Machine,Mindray,Operation Theatre,4,11272,8,14868,10,206,Under Maintenance,Yes,1
+269,Ventilator,Drager,Emergency,10,13666,7,7227,1,64,Out of Service,Yes,1
+270,Infusion Pump,Drager,Operation Theatre,7,6125,13,4275,3,82,Under Maintenance,Yes,1
+271,Ventilator,GE Healthcare,Radiology,2,20022,7,8509,7,219,Under Maintenance,No,1
+272,Patient Monitor,GE Healthcare,Operation Theatre,4,11272,7,5706,2,278,Out of Service,Yes,1
+273,Patient Monitor,Siemens,ICU,3,14792,10,1713,1,283,Working,No,0
+274,Defibrillator,GE Healthcare,Cardiology,3,20492,6,13232,7,344,Working,No,1
+275,ECG Machine,Drager,Cardiology,1,23099,1,7862,7,308,Out of Service,No,1
+276,Ventilator,GE Healthcare,Operation Theatre,2,19833,14,578,9,193,Out of Service,No,1
+277,Defibrillator,Drager,Emergency,10,17072,14,2437,1,211,Under Maintenance,No,1
+278,Defibrillator,GE Healthcare,Emergency,4,18960,11,4946,9,256,Under Maintenance,No,1
+279,Ultrasound Machine,Siemens,Radiology,10,20931,2,9185,6,311,Out of Service,No,1
+280,Defibrillator,Siemens,Radiology,4,1304,5,12405,0,142,Under Maintenance,No,1
+281,ECG Machine,Siemens,Operation Theatre,3,14226,8,5313,5,34,Working,Yes,1
+282,Infusion Pump,Drager,Operation Theatre,5,9471,14,11425,7,151,Under Maintenance,Yes,1
+283,Ultrasound Machine,Mindray,Radiology,10,14195,2,6293,0,114,Out of Service,No,1
+284,CT Scanner,Siemens,Emergency,3,2760,15,2998,10,192,Under Maintenance,Yes,1
+285,Defibrillator,GE Healthcare,Emergency,3,8029,5,9274,2,179,Working,Yes,1
+286,MRI Scanner,Philips,ICU,6,15052,1,1367,4,81,Under Maintenance,No,0
+287,Ultrasound Machine,Drager,Emergency,4,5028,12,3938,10,134,Out of Service,No,1
+288,Ultrasound Machine,GE Healthcare,ICU,5,6047,9,8029,3,251,Out of Service,No,1
+289,ECG Machine,Philips,Emergency,5,17497,2,8075,2,171,Out of Service,Yes,1
+290,Patient Monitor,GE Healthcare,Operation Theatre,1,7087,3,11701,3,68,Under Maintenance,No,1
+291,Patient Monitor,Mindray,Emergency,10,24904,6,2792,10,306,Working,No,1
+292,Ultrasound Machine,Drager,ICU,5,21654,9,5106,8,344,Under Maintenance,Yes,1
+293,Infusion Pump,GE Healthcare,ICU,8,20138,5,3459,10,124,Working,Yes,1
+294,MRI Scanner,Philips,Operation Theatre,8,4394,8,8199,7,332,Under Maintenance,Yes,1
+295,CT Scanner,GE Healthcare,ICU,1,24175,9,14265,7,281,Under Maintenance,No,1
+296,Ventilator,Drager,Cardiology,7,23018,3,1655,7,55,Under Maintenance,Yes,1
+297,Ventilator,GE Healthcare,Emergency,6,15861,10,1272,3,212,Under Maintenance,No,0
+298,Ventilator,Drager,Emergency,1,987,5,14121,7,230,Out of Service,No,1
+299,ECG Machine,Drager,ICU,7,17213,11,1686,5,353,Out of Service,Yes,1
+300,Ventilator,Siemens,ICU,2,9345,12,585,10,313,Out of Service,No,1
+301,Patient Monitor,Philips,Emergency,10,15858,11,5871,0,295,Working,Yes,1
+302,MRI Scanner,Drager,Radiology,6,22243,3,9135,10,318,Out of Service,Yes,1
+303,Ultrasound Machine,Drager,Operation Theatre,6,13525,9,8875,2,98,Under Maintenance,No,1
+304,ECG Machine,Drager,Radiology,9,8872,7,824,6,261,Working,Yes,1
+305,MRI Scanner,Drager,ICU,6,16526,13,10053,0,26,Working,No,1
+306,Ventilator,Siemens,Operation Theatre,3,7701,6,9716,3,51,Working,No,1
+307,CT Scanner,GE Healthcare,ICU,2,9838,11,3568,1,192,Working,No,0
+308,MRI Scanner,Drager,Emergency,6,7835,10,808,7,77,Out of Service,Yes,1
+309,CT Scanner,Philips,Operation Theatre,1,24697,11,11845,7,113,Working,No,1
+310,Patient Monitor,GE Healthcare,Operation Theatre,5,12378,15,515,9,230,Under Maintenance,Yes,1
+311,Ventilator,Philips,ICU,1,1496,5,10972,10,211,Working,No,1
+312,CT Scanner,Philips,Radiology,9,17317,15,2360,3,107,Working,Yes,1
+313,Ultrasound Machine,Mindray,Operation Theatre,5,10662,1,4257,10,127,Working,No,1
+314,MRI Scanner,Philips,Cardiology,2,6236,6,14595,9,91,Out of Service,No,1
+315,CT Scanner,Philips,ICU,4,20153,9,14479,1,25,Out of Service,No,1
+316,Patient Monitor,Drager,ICU,2,24058,15,2168,9,247,Out of Service,Yes,1
+317,Patient Monitor,Philips,Emergency,4,18299,13,6406,8,129,Working,No,1
+318,MRI Scanner,Drager,Radiology,2,4940,15,4625,0,59,Out of Service,Yes,1
+319,MRI Scanner,Drager,Emergency,10,19424,1,6130,9,206,Working,No,1
+320,ECG Machine,Drager,Emergency,9,17710,5,14640,3,255,Working,Yes,1
+321,Ventilator,Drager,Radiology,7,1645,10,5072,8,106,Under Maintenance,Yes,1
+322,ECG Machine,Drager,ICU,3,18066,7,9274,8,27,Out of Service,No,1
+323,Patient Monitor,Drager,Radiology,9,21041,14,3828,0,137,Out of Service,Yes,1
+324,ECG Machine,Philips,Emergency,2,14470,6,3181,0,314,Working,Yes,0
+325,Ultrasound Machine,GE Healthcare,ICU,8,7838,10,9457,2,264,Out of Service,No,1
+326,Infusion Pump,Siemens,Emergency,6,20727,7,8329,5,314,Out of Service,No,1
+327,Ultrasound Machine,Siemens,Cardiology,5,11705,6,9892,9,359,Under Maintenance,No,1
+328,ECG Machine,Philips,Emergency,6,15340,7,7841,4,204,Working,Yes,0
+329,ECG Machine,GE Healthcare,Radiology,3,24147,6,7046,1,167,Out of Service,Yes,1
+330,ECG Machine,Mindray,Operation Theatre,7,23635,9,1143,0,189,Out of Service,Yes,1
+331,Ultrasound Machine,Drager,ICU,1,11739,11,4698,8,294,Working,No,1
+332,ECG Machine,Mindray,Emergency,4,17312,8,13278,3,191,Working,Yes,1
+333,Ventilator,Mindray,Cardiology,3,16113,13,14246,3,127,Under Maintenance,Yes,1
+334,ECG Machine,Mindray,ICU,8,7237,11,12520,5,179,Working,No,1
+335,ECG Machine,GE Healthcare,ICU,9,10698,15,9271,8,295,Under Maintenance,No,1
+336,ECG Machine,Mindray,Radiology,8,9517,8,13760,2,239,Out of Service,No,1
+337,Infusion Pump,GE Healthcare,Operation Theatre,6,23342,5,809,6,140,Working,No,1
+338,CT Scanner,GE Healthcare,Radiology,1,18600,4,1403,1,293,Out of Service,Yes,1
+339,ECG Machine,Mindray,Radiology,3,6883,7,7624,1,129,Under Maintenance,No,0
+340,Ventilator,GE Healthcare,Radiology,6,4331,12,11717,1,150,Working,Yes,1
+341,Defibrillator,Siemens,Radiology,8,5251,15,9209,2,331,Out of Service,Yes,1
+342,Patient Monitor,Mindray,Radiology,4,16037,1,8875,8,153,Working,Yes,1
+343,Defibrillator,Drager,ICU,8,4305,5,14417,10,34,Under Maintenance,No,1
+344,Ventilator,Philips,Cardiology,9,1360,3,5741,6,71,Working,No,1
+345,ECG Machine,Siemens,Cardiology,5,21258,10,6751,4,77,Working,Yes,0
+346,Ultrasound Machine,GE Healthcare,Radiology,9,1925,11,8700,5,79,Under Maintenance,No,1
+347,CT Scanner,Siemens,Operation Theatre,1,18342,2,6083,0,150,Under Maintenance,No,0
+348,Patient Monitor,Drager,Cardiology,2,23865,15,5031,5,253,Under Maintenance,Yes,1
+349,Infusion Pump,Siemens,Cardiology,1,6261,11,13845,5,360,Out of Service,Yes,1
+350,ECG Machine,Siemens,Emergency,2,11384,2,3675,10,311,Under Maintenance,No,1
+351,Patient Monitor,Mindray,Emergency,8,7134,3,8922,3,268,Working,Yes,1
+352,Defibrillator,GE Healthcare,Cardiology,9,9414,7,13108,0,360,Under Maintenance,No,1
+353,Ultrasound Machine,Siemens,Emergency,7,7978,15,14970,4,212,Out of Service,Yes,1
+354,Defibrillator,Drager,ICU,9,18502,15,3114,1,309,Under Maintenance,Yes,1
+355,CT Scanner,Drager,ICU,4,18094,6,13614,0,225,Working,Yes,1
+356,ECG Machine,Mindray,Cardiology,7,17605,11,13342,0,334,Working,Yes,1
+357,MRI Scanner,Drager,Operation Theatre,10,10474,15,9033,3,110,Under Maintenance,No,1
+358,MRI Scanner,GE Healthcare,ICU,8,5486,6,6258,0,27,Under Maintenance,No,1
+359,Infusion Pump,Philips,Operation Theatre,2,8801,5,10070,6,202,Out of Service,Yes,1
+360,Patient Monitor,GE Healthcare,Cardiology,5,22814,15,11924,8,229,Working,No,1
+361,MRI Scanner,Mindray,Operation Theatre,2,10547,14,13746,4,302,Out of Service,No,1
+362,Ultrasound Machine,Siemens,Cardiology,10,4248,9,6525,0,320,Working,No,1
+363,Defibrillator,Mindray,ICU,9,15983,8,7381,4,360,Working,No,1
+364,MRI Scanner,GE Healthcare,Radiology,3,24747,4,651,9,101,Under Maintenance,No,1
+365,Defibrillator,Siemens,Operation Theatre,9,11673,10,10149,3,130,Under Maintenance,Yes,1
+366,Infusion Pump,GE Healthcare,Cardiology,5,18316,14,6316,6,170,Under Maintenance,Yes,1
+367,Infusion Pump,Philips,Operation Theatre,8,10972,1,12293,0,303,Working,Yes,1
+368,ECG Machine,Siemens,Cardiology,2,13233,11,10990,6,61,Working,No,1
+369,Infusion Pump,Siemens,Radiology,1,10658,14,13649,5,223,Under Maintenance,Yes,1
+370,CT Scanner,Mindray,ICU,6,10122,2,3447,2,163,Under Maintenance,Yes,0
+371,Defibrillator,GE Healthcare,Radiology,5,11915,9,6959,4,17,Out of Service,Yes,1
+372,Ventilator,Philips,Radiology,9,4686,3,7562,8,222,Out of Service,No,1
+373,ECG Machine,Mindray,Emergency,6,17170,12,3749,8,282,Under Maintenance,No,1
+374,Ultrasound Machine,Drager,Emergency,3,13346,3,6136,1,232,Out of Service,No,1
+375,MRI Scanner,Drager,Emergency,5,16265,3,6011,8,266,Under Maintenance,No,1
+376,Defibrillator,Philips,Cardiology,8,4203,1,7041,1,251,Under Maintenance,Yes,1
+377,ECG Machine,GE Healthcare,Cardiology,8,7745,2,3909,4,96,Working,No,1
+378,Ultrasound Machine,Philips,Emergency,1,13650,12,14543,4,143,Out of Service,Yes,1
+379,ECG Machine,Mindray,Cardiology,4,6685,7,2411,0,6,Under Maintenance,Yes,0
+380,Ultrasound Machine,Siemens,ICU,10,3205,15,13063,3,82,Out of Service,No,1
+381,Patient Monitor,Philips,Cardiology,8,15131,3,13648,0,244,Working,No,1
+382,ECG Machine,Siemens,Radiology,9,24005,1,1507,5,188,Working,No,1
+383,MRI Scanner,GE Healthcare,Radiology,5,9596,13,9661,4,48,Out of Service,No,1
+384,Patient Monitor,Siemens,Emergency,3,15387,6,6743,0,322,Out of Service,Yes,1
+385,Ultrasound Machine,Drager,Emergency,6,7500,5,4370,6,17,Working,No,1
+386,Patient Monitor,Philips,Emergency,4,11648,11,6144,7,1,Under Maintenance,No,1
+387,MRI Scanner,Siemens,Radiology,7,12080,11,5317,3,356,Out of Service,No,1
+388,CT Scanner,Siemens,Radiology,4,12232,6,2728,3,334,Out of Service,No,1
+389,CT Scanner,Philips,Cardiology,5,14175,14,5903,4,128,Under Maintenance,Yes,0
+390,ECG Machine,Drager,Cardiology,6,3062,14,6889,8,233,Under Maintenance,No,1
+391,Infusion Pump,Philips,Emergency,2,14526,10,2575,2,25,Out of Service,No,1
+392,ECG Machine,Philips,Radiology,7,6549,7,5241,9,63,Working,Yes,1
+393,Ultrasound Machine,Drager,Operation Theatre,1,22004,7,2956,10,146,Under Maintenance,No,1
+394,Defibrillator,Siemens,ICU,1,9191,8,12270,5,134,Under Maintenance,Yes,1
+395,Patient Monitor,Siemens,ICU,10,8062,2,9860,2,215,Working,No,1
+396,Ventilator,Siemens,Emergency,8,19076,12,6001,3,356,Under Maintenance,Yes,1
+397,Patient Monitor,Drager,Cardiology,7,20850,1,7357,2,312,Under Maintenance,Yes,1
+398,MRI Scanner,GE Healthcare,Radiology,2,2930,15,6990,10,204,Under Maintenance,No,1
+399,CT Scanner,GE Healthcare,Emergency,8,13432,11,2099,3,287,Out of Service,Yes,1
+400,Ventilator,Philips,Radiology,2,12299,5,4985,6,36,Under Maintenance,No,1
+401,MRI Scanner,Philips,Emergency,3,4415,1,12730,3,345,Out of Service,Yes,1
+402,Defibrillator,Siemens,Radiology,3,5830,2,4928,4,353,Working,Yes,0
+403,Ventilator,GE Healthcare,Radiology,7,5821,15,1195,3,184,Working,Yes,1
+404,Patient Monitor,Drager,Operation Theatre,3,12799,11,12267,1,257,Under Maintenance,No,1
+405,Ventilator,GE Healthcare,Emergency,9,15926,5,11451,2,149,Out of Service,Yes,1
+406,Infusion Pump,Siemens,Emergency,6,23069,12,7114,4,182,Under Maintenance,Yes,0
+407,Ventilator,Mindray,Emergency,5,16353,8,13261,6,169,Working,Yes,1
+408,Defibrillator,Philips,Radiology,1,10095,15,10507,1,3,Under Maintenance,Yes,1
+409,ECG Machine,GE Healthcare,Operation Theatre,2,8927,10,3946,0,339,Under Maintenance,Yes,0
+410,Patient Monitor,Philips,Emergency,4,8777,3,14529,2,195,Working,Yes,1
+411,Ventilator,Drager,Radiology,4,17234,11,1661,5,234,Working,No,1
+412,Defibrillator,GE Healthcare,Radiology,8,9157,12,7784,9,92,Working,No,1
+413,Infusion Pump,GE Healthcare,ICU,7,24377,13,6128,4,360,Under Maintenance,No,1
+414,ECG Machine,Drager,Cardiology,7,8769,9,9446,8,268,Under Maintenance,Yes,1
+415,MRI Scanner,Siemens,Radiology,4,20177,10,5962,7,107,Out of Service,No,1
+416,MRI Scanner,Mindray,Emergency,6,10677,4,11270,1,310,Under Maintenance,No,1
+417,Infusion Pump,GE Healthcare,ICU,3,20913,2,714,4,71,Working,No,0
+418,Patient Monitor,Drager,ICU,7,11061,9,8685,2,70,Under Maintenance,No,1
+419,Patient Monitor,Siemens,Radiology,4,5554,1,9092,8,84,Out of Service,No,1
+420,Ventilator,Philips,Operation Theatre,9,19827,10,5204,9,279,Under Maintenance,No,1
+421,MRI Scanner,Mindray,Radiology,1,5238,15,519,0,71,Out of Service,No,1
+422,Patient Monitor,Drager,Emergency,10,12911,9,10649,8,58,Under Maintenance,No,1
+423,MRI Scanner,Mindray,Emergency,3,23249,6,5295,9,31,Out of Service,No,1
+424,Ventilator,Siemens,Radiology,3,11860,14,6491,3,275,Under Maintenance,No,0
+425,Ultrasound Machine,Drager,Radiology,8,19714,3,7789,7,364,Working,Yes,1
+426,Ultrasound Machine,Mindray,Cardiology,1,13269,4,10308,10,50,Under Maintenance,Yes,1
+427,Ventilator,GE Healthcare,Radiology,1,21661,6,12865,6,278,Working,Yes,1
+428,Ultrasound Machine,Drager,ICU,1,22460,12,5406,1,143,Under Maintenance,Yes,0
+429,Ventilator,Drager,ICU,8,15723,2,9845,2,47,Under Maintenance,Yes,1
+430,CT Scanner,Drager,Radiology,1,7910,13,14229,1,198,Under Maintenance,Yes,1
+431,Defibrillator,Siemens,Operation Theatre,4,24937,5,6844,9,95,Under Maintenance,No,1
+432,CT Scanner,GE Healthcare,ICU,4,19813,4,3655,8,37,Out of Service,No,1
+433,Patient Monitor,Philips,Radiology,4,11501,10,7542,10,248,Under Maintenance,Yes,1
+434,Ventilator,Siemens,Emergency,3,19993,13,12924,4,116,Out of Service,No,1
+435,MRI Scanner,Mindray,ICU,4,9452,4,13080,10,45,Under Maintenance,Yes,1
+436,ECG Machine,Drager,Cardiology,10,12657,10,6737,6,262,Under Maintenance,No,1
+437,MRI Scanner,Mindray,ICU,10,22787,2,13269,7,270,Out of Service,No,1
+438,Patient Monitor,Mindray,Emergency,3,24178,8,10055,9,16,Working,Yes,1
+439,Defibrillator,GE Healthcare,ICU,9,15156,13,8971,0,306,Under Maintenance,Yes,1
+440,ECG Machine,Siemens,Cardiology,9,23340,8,6705,9,55,Under Maintenance,No,1
+441,CT Scanner,Siemens,Operation Theatre,7,6321,5,3455,4,46,Out of Service,Yes,1
+442,Ventilator,Mindray,Cardiology,4,2571,4,2339,0,193,Under Maintenance,No,0
+443,MRI Scanner,Drager,ICU,3,7799,11,9801,6,156,Under Maintenance,No,1
+444,Ultrasound Machine,Drager,Emergency,3,17424,7,7223,1,143,Out of Service,Yes,1
+445,CT Scanner,Siemens,Cardiology,9,7534,9,14057,5,222,Working,No,1
+446,Defibrillator,Drager,Emergency,7,23842,5,13287,5,256,Under Maintenance,Yes,1
+447,Defibrillator,Philips,Emergency,8,6353,11,13659,7,195,Under Maintenance,No,1
+448,MRI Scanner,GE Healthcare,Emergency,9,8527,13,11592,3,172,Under Maintenance,Yes,1
+449,Patient Monitor,Mindray,Operation Theatre,6,4480,10,9655,9,75,Out of Service,Yes,1
+450,Patient Monitor,Drager,Radiology,2,15150,11,6020,2,13,Out of Service,No,1
+451,Ventilator,Mindray,Operation Theatre,10,15791,5,1120,2,147,Out of Service,No,1
+452,Defibrillator,GE Healthcare,Operation Theatre,6,4988,2,6389,0,215,Working,No,0
+453,Defibrillator,Siemens,ICU,3,7655,12,1895,9,354,Working,No,1
+454,Patient Monitor,Mindray,Radiology,10,12416,5,6241,1,298,Working,Yes,1
+455,ECG Machine,Drager,ICU,10,5874,5,6303,3,355,Working,Yes,1
+456,Defibrillator,Siemens,ICU,5,11819,12,2068,8,49,Under Maintenance,No,1
+457,Patient Monitor,Philips,ICU,8,13369,1,7336,3,114,Under Maintenance,Yes,1
+458,Ultrasound Machine,Siemens,ICU,2,8149,11,8448,3,69,Working,No,1
+459,Ventilator,Drager,Cardiology,4,19324,4,1659,10,204,Under Maintenance,No,1
+460,Ventilator,GE Healthcare,Emergency,3,3800,14,6682,7,316,Working,Yes,1
+461,CT Scanner,GE Healthcare,Cardiology,8,9362,8,8982,5,99,Out of Service,No,1
+462,Infusion Pump,Drager,Emergency,8,7149,13,12925,10,206,Out of Service,Yes,1
+463,MRI Scanner,Philips,Radiology,10,12076,13,13483,2,177,Working,No,1
+464,ECG Machine,Mindray,Radiology,5,20110,11,4676,8,58,Working,Yes,1
+465,CT Scanner,Mindray,Cardiology,7,12668,7,5779,6,156,Working,No,1
+466,Ultrasound Machine,Siemens,Emergency,8,2105,12,8093,6,55,Under Maintenance,Yes,1
+467,Ventilator,GE Healthcare,Cardiology,4,8561,12,5386,6,49,Working,Yes,1
+468,ECG Machine,Philips,Operation Theatre,1,14928,11,7641,3,135,Out of Service,No,1
+469,CT Scanner,Philips,Emergency,5,2112,1,2490,3,317,Under Maintenance,No,0
+470,CT Scanner,Mindray,ICU,4,24450,3,6087,6,9,Out of Service,Yes,1
+471,MRI Scanner,Mindray,Cardiology,2,11233,7,5224,10,25,Under Maintenance,Yes,1
+472,Defibrillator,Siemens,ICU,9,20513,5,7186,6,56,Working,No,1
+473,ECG Machine,Philips,Operation Theatre,3,16082,9,7797,10,293,Working,No,1
+474,CT Scanner,Siemens,Operation Theatre,3,11621,14,12596,5,261,Out of Service,No,1
+475,MRI Scanner,Drager,ICU,6,18971,5,3051,8,260,Under Maintenance,Yes,1
+476,Defibrillator,GE Healthcare,Emergency,9,13218,11,10962,2,339,Out of Service,Yes,1
+477,Ventilator,Mindray,Cardiology,7,7116,14,8618,7,31,Under Maintenance,Yes,1
+478,Defibrillator,GE Healthcare,Cardiology,8,10926,3,7571,0,65,Working,Yes,1
+479,Defibrillator,Mindray,Cardiology,9,1674,2,3355,1,207,Out of Service,Yes,1
+480,Defibrillator,Mindray,ICU,7,8482,1,14181,1,246,Out of Service,Yes,1
+481,Defibrillator,Mindray,Radiology,1,19454,5,6317,1,25,Out of Service,No,1
+482,Infusion Pump,Mindray,ICU,9,21547,13,8486,3,18,Out of Service,Yes,1
+483,Infusion Pump,Philips,Radiology,2,14461,6,1733,3,41,Working,No,0
+484,Infusion Pump,Drager,ICU,7,5013,12,5144,1,284,Out of Service,Yes,1
+485,Ultrasound Machine,Philips,Radiology,9,14255,6,1769,4,46,Out of Service,No,1
+486,Infusion Pump,Philips,Emergency,10,13983,10,590,7,287,Under Maintenance,No,1
+487,Defibrillator,GE Healthcare,Cardiology,10,19160,2,3173,9,17,Under Maintenance,No,1
+488,Defibrillator,Siemens,Radiology,9,1357,4,6308,10,234,Out of Service,Yes,1
+489,Patient Monitor,GE Healthcare,Operation Theatre,7,2638,8,2033,2,157,Out of Service,Yes,1
+490,CT Scanner,Mindray,Emergency,5,6873,6,5563,5,244,Out of Service,No,1
+491,Infusion Pump,GE Healthcare,ICU,5,5310,6,14350,9,160,Working,No,1
+492,Defibrillator,Siemens,Emergency,6,18127,11,6518,7,330,Working,Yes,1
+493,Infusion Pump,Mindray,Radiology,10,15943,2,1132,2,123,Under Maintenance,Yes,1
+494,Defibrillator,Siemens,Cardiology,9,5405,8,9304,9,122,Working,No,1
+495,ECG Machine,Drager,Operation Theatre,3,3148,5,10276,4,239,Out of Service,Yes,1
+496,Defibrillator,GE Healthcare,ICU,6,6411,13,7885,9,70,Under Maintenance,No,1
+497,CT Scanner,GE Healthcare,ICU,9,8664,6,9398,7,210,Under Maintenance,Yes,1
+498,Patient Monitor,Mindray,ICU,3,20824,15,11218,9,177,Working,Yes,1
+499,MRI Scanner,Philips,Operation Theatre,2,5721,13,11985,0,277,Out of Service,No,1
+500,ECG Machine,Drager,Cardiology,8,4440,10,10919,4,108,Working,Yes,1
+501,Ultrasound Machine,Siemens,Cardiology,5,23031,14,9208,8,67,Out of Service,Yes,1
+502,Defibrillator,Philips,Cardiology,3,22388,6,12518,1,79,Out of Service,No,1
+503,CT Scanner,Mindray,ICU,1,915,9,11236,6,30,Under Maintenance,Yes,1
+504,CT Scanner,Siemens,Cardiology,6,14171,2,11094,9,120,Working,Yes,1
+505,MRI Scanner,Mindray,Operation Theatre,6,2347,15,2233,8,201,Working,Yes,1
+506,CT Scanner,Philips,Operation Theatre,9,4057,9,6018,0,51,Out of Service,Yes,1
+507,MRI Scanner,Mindray,Operation Theatre,1,1077,7,11132,6,330,Out of Service,Yes,1
+508,Ventilator,Siemens,Operation Theatre,4,8097,15,13634,6,73,Working,Yes,1
+509,MRI Scanner,GE Healthcare,Emergency,3,15035,8,556,6,80,Working,Yes,1
+510,ECG Machine,GE Healthcare,Operation Theatre,10,777,10,11158,2,295,Out of Service,No,1
+511,Defibrillator,GE Healthcare,Operation Theatre,2,19636,11,10783,8,284,Working,Yes,1
+512,Ventilator,GE Healthcare,Operation Theatre,1,19678,1,10006,7,292,Working,No,1
+513,CT Scanner,Drager,Operation Theatre,2,7219,5,4455,7,123,Working,Yes,1
+514,Infusion Pump,Siemens,Radiology,7,9093,7,10577,0,99,Under Maintenance,Yes,1
+515,CT Scanner,Siemens,Emergency,10,13373,5,4419,9,327,Working,No,1
+516,ECG Machine,Mindray,Cardiology,2,4187,15,13819,4,12,Under Maintenance,Yes,1
+517,Defibrillator,GE Healthcare,Radiology,5,5118,2,3825,8,329,Out of Service,No,1
+518,ECG Machine,Drager,ICU,10,20198,8,1813,3,27,Working,Yes,1
+519,CT Scanner,Philips,Emergency,1,15167,7,1915,9,17,Working,No,1
+520,Patient Monitor,GE Healthcare,Operation Theatre,9,17014,3,5075,3,18,Under Maintenance,Yes,1
+521,MRI Scanner,GE Healthcare,Cardiology,6,4259,11,12227,6,359,Out of Service,No,1
+522,Patient Monitor,GE Healthcare,Radiology,6,9239,5,3864,10,135,Out of Service,Yes,1
+523,CT Scanner,Drager,Operation Theatre,9,16427,1,8323,8,259,Under Maintenance,No,1
+524,Patient Monitor,Mindray,Operation Theatre,8,21926,6,10846,9,274,Under Maintenance,Yes,1
+525,ECG Machine,Siemens,Operation Theatre,5,22502,15,13568,8,334,Working,No,1
+526,Ventilator,Siemens,Radiology,9,4892,8,12507,6,129,Working,No,1
+527,Defibrillator,GE Healthcare,Emergency,3,10322,11,3223,4,297,Out of Service,No,1
+528,Defibrillator,Mindray,Radiology,6,20432,6,8193,3,296,Out of Service,No,1
+529,Infusion Pump,Philips,Operation Theatre,3,12785,5,7843,8,206,Under Maintenance,Yes,1
+530,ECG Machine,Siemens,ICU,2,8557,8,7987,8,23,Under Maintenance,No,1
+531,MRI Scanner,Philips,Cardiology,9,9260,14,9586,5,280,Under Maintenance,No,1
+532,Ultrasound Machine,Siemens,Cardiology,3,16799,8,8572,9,127,Under Maintenance,Yes,1
+533,ECG Machine,Drager,Emergency,5,19257,12,2913,6,6,Working,Yes,1
+534,Ultrasound Machine,Siemens,ICU,10,20221,9,4953,9,161,Out of Service,Yes,1
+535,CT Scanner,Siemens,Emergency,10,19640,2,4724,1,351,Out of Service,Yes,1
+536,Infusion Pump,Mindray,Radiology,7,2505,5,532,10,278,Under Maintenance,Yes,1
+537,Ultrasound Machine,GE Healthcare,Cardiology,9,21059,9,8707,3,358,Under Maintenance,Yes,1
+538,Infusion Pump,Siemens,ICU,3,23394,2,1101,9,359,Out of Service,Yes,1
+539,ECG Machine,Mindray,ICU,1,1323,9,14149,7,364,Out of Service,No,1
+540,Ventilator,Mindray,Radiology,8,22223,7,14348,6,54,Working,No,1
+541,Ultrasound Machine,Philips,ICU,6,8103,13,4710,4,107,Under Maintenance,Yes,0
+542,ECG Machine,Drager,Operation Theatre,7,2314,3,10536,6,222,Under Maintenance,No,1
+543,Defibrillator,Siemens,ICU,5,716,8,13055,0,70,Working,No,1
+544,Defibrillator,Siemens,Cardiology,2,15274,5,5601,7,262,Working,No,1
+545,Ventilator,Drager,Radiology,1,631,11,5576,5,18,Working,Yes,1
+546,CT Scanner,Mindray,ICU,10,12056,5,900,7,293,Out of Service,No,1
+547,Infusion Pump,GE Healthcare,Emergency,5,5749,4,8006,3,287,Out of Service,No,1
+548,MRI Scanner,Mindray,Emergency,8,5190,9,5527,9,199,Working,Yes,1
+549,CT Scanner,Drager,Radiology,1,20782,8,12574,4,36,Working,No,1
+550,Ventilator,Siemens,Radiology,7,17509,10,13916,1,318,Under Maintenance,No,1
+551,Infusion Pump,Mindray,ICU,10,20959,12,12258,8,330,Out of Service,No,1
+552,Infusion Pump,Mindray,ICU,1,3371,1,12754,9,267,Working,Yes,1
+553,Infusion Pump,Drager,Cardiology,9,7959,14,596,10,61,Working,Yes,1
+554,MRI Scanner,GE Healthcare,ICU,9,6262,11,6233,1,355,Working,No,1
+555,Defibrillator,Siemens,ICU,5,6019,7,3136,4,284,Under Maintenance,No,0
+556,ECG Machine,Siemens,Emergency,9,15541,1,4789,2,201,Out of Service,Yes,1
+557,MRI Scanner,Mindray,Emergency,3,4641,6,14262,9,64,Out of Service,No,1
+558,Ventilator,Siemens,Cardiology,5,1239,12,1345,1,300,Under Maintenance,No,0
+559,Ventilator,Philips,Emergency,6,2622,12,14032,8,120,Under Maintenance,Yes,1
+560,MRI Scanner,Drager,Emergency,2,17236,13,8222,4,337,Working,Yes,1
+561,Defibrillator,Philips,Operation Theatre,7,20744,10,3417,1,72,Working,Yes,1
+562,CT Scanner,Mindray,Radiology,4,4027,5,10577,5,333,Under Maintenance,Yes,1
+563,MRI Scanner,GE Healthcare,Emergency,4,8297,13,8827,7,71,Out of Service,Yes,1
+564,Patient Monitor,Philips,ICU,6,13441,9,3891,8,185,Out of Service,No,1
+565,Ultrasound Machine,Drager,Cardiology,3,3392,9,4655,8,325,Out of Service,No,1
+566,ECG Machine,Philips,Emergency,4,18942,12,2483,3,108,Working,No,0
+567,Patient Monitor,Drager,Radiology,1,14304,13,14597,6,296,Out of Service,No,1
+568,Infusion Pump,Drager,Emergency,5,9265,5,9299,0,81,Working,No,1
+569,CT Scanner,GE Healthcare,Cardiology,3,23436,13,10080,3,282,Out of Service,Yes,1
+570,ECG Machine,Philips,ICU,3,16846,10,5825,9,96,Under Maintenance,Yes,1
+571,ECG Machine,Mindray,ICU,9,5666,1,1379,9,362,Under Maintenance,Yes,1
+572,ECG Machine,GE Healthcare,ICU,5,13450,15,9987,1,230,Out of Service,No,1
+573,MRI Scanner,Siemens,Emergency,1,15590,10,917,9,307,Out of Service,Yes,1
+574,Ventilator,Drager,Operation Theatre,1,8476,2,2646,8,150,Out of Service,No,1
+575,MRI Scanner,Drager,Cardiology,4,4830,1,10419,10,353,Working,No,1
+576,Ultrasound Machine,GE Healthcare,Operation Theatre,3,867,12,9332,6,231,Under Maintenance,Yes,1
+577,ECG Machine,Siemens,Emergency,2,8514,6,12332,7,232,Working,No,1
+578,MRI Scanner,Siemens,Emergency,9,13505,10,6840,2,297,Working,Yes,1
+579,Ultrasound Machine,Drager,Radiology,7,3275,15,8457,7,230,Working,No,1
+580,Ultrasound Machine,Mindray,Emergency,2,20594,9,13606,5,22,Working,No,1
+581,Defibrillator,Drager,Radiology,8,8377,10,8647,6,262,Out of Service,Yes,1
+582,MRI Scanner,Mindray,Radiology,10,10196,2,13521,5,263,Working,Yes,1
+583,Ventilator,Drager,ICU,5,1700,7,9382,2,109,Under Maintenance,No,1
+584,CT Scanner,Mindray,Emergency,8,20552,2,5089,8,341,Out of Service,No,1
+585,Infusion Pump,GE Healthcare,Operation Theatre,6,16286,10,8171,8,286,Under Maintenance,No,1
+586,Defibrillator,Philips,Emergency,3,10848,2,580,9,31,Under Maintenance,No,1
+587,MRI Scanner,Siemens,Radiology,8,7790,9,6727,9,247,Under Maintenance,Yes,1
+588,Ultrasound Machine,Siemens,Cardiology,6,19498,1,904,6,44,Out of Service,Yes,1
+589,Ventilator,Drager,ICU,8,16667,12,6498,9,166,Working,Yes,1
+590,Ultrasound Machine,Siemens,Cardiology,8,22108,4,13199,5,30,Under Maintenance,Yes,1
+591,Ultrasound Machine,Mindray,Operation Theatre,8,16780,10,6725,7,130,Working,Yes,1
+592,MRI Scanner,Philips,Emergency,2,9415,4,12769,2,74,Out of Service,No,1
+593,Patient Monitor,GE Healthcare,Operation Theatre,9,15328,5,12736,2,19,Under Maintenance,No,1
+594,Ultrasound Machine,GE Healthcare,Radiology,4,22134,14,7137,6,3,Out of Service,Yes,1
+595,Infusion Pump,Philips,ICU,3,7485,7,3008,5,209,Out of Service,No,1
+596,MRI Scanner,Drager,Cardiology,1,8619,9,1563,4,134,Out of Service,Yes,1
+597,CT Scanner,Philips,Operation Theatre,9,2984,8,12394,4,20,Out of Service,Yes,1
+598,Infusion Pump,Philips,Operation Theatre,9,23993,13,12071,0,212,Under Maintenance,Yes,1
+599,Ventilator,Philips,Operation Theatre,6,1400,14,2223,0,175,Out of Service,No,1
+600,Ventilator,Mindray,Radiology,5,1943,3,2275,0,202,Working,Yes,0
+601,Ventilator,Siemens,Operation Theatre,8,12998,13,4971,3,268,Out of Service,No,1
+602,CT Scanner,Siemens,Emergency,3,11154,7,3819,9,229,Out of Service,Yes,1
+603,Patient Monitor,Siemens,Cardiology,8,9141,1,13606,1,73,Under Maintenance,Yes,1
+604,MRI Scanner,Drager,Operation Theatre,4,15194,3,3208,5,27,Under Maintenance,No,1
+605,Defibrillator,Philips,Cardiology,5,8700,11,4064,5,276,Under Maintenance,No,1
+606,Patient Monitor,GE Healthcare,Emergency,6,23803,9,1905,10,278,Working,Yes,1
+607,Patient Monitor,GE Healthcare,ICU,2,10723,7,6610,3,355,Out of Service,Yes,1
+608,CT Scanner,Siemens,Operation Theatre,6,4656,15,6352,1,350,Working,No,0
+609,Defibrillator,Siemens,Radiology,6,13628,8,10096,10,80,Under Maintenance,No,1
+610,Ultrasound Machine,Drager,Operation Theatre,2,23395,9,6489,2,62,Under Maintenance,No,0
+611,Infusion Pump,Philips,ICU,2,16571,2,9872,0,246,Under Maintenance,Yes,1
+612,Ventilator,GE Healthcare,Cardiology,6,5887,5,5019,4,96,Under Maintenance,No,0
+613,ECG Machine,Siemens,ICU,7,6432,1,3056,5,335,Out of Service,Yes,1
+614,CT Scanner,Mindray,Operation Theatre,2,4197,8,12159,4,331,Out of Service,Yes,1
+615,Ultrasound Machine,GE Healthcare,Operation Theatre,3,23667,4,3664,3,117,Out of Service,Yes,1
+616,ECG Machine,Philips,Radiology,3,18225,11,13737,3,272,Under Maintenance,Yes,1
+617,CT Scanner,Drager,Cardiology,4,15496,1,2136,6,112,Under Maintenance,Yes,1
+618,CT Scanner,Siemens,Radiology,3,20843,7,13508,5,52,Out of Service,Yes,1
+619,CT Scanner,Philips,Cardiology,1,20837,15,11888,5,4,Under Maintenance,Yes,1
+620,MRI Scanner,Siemens,Operation Theatre,5,5104,4,4802,4,89,Out of Service,No,1
+621,Defibrillator,Philips,Radiology,5,24478,7,2587,3,9,Out of Service,No,1
+622,Ventilator,Siemens,Operation Theatre,4,21188,13,5137,7,57,Out of Service,No,1
+623,Defibrillator,Drager,Operation Theatre,7,19986,2,2211,1,309,Under Maintenance,Yes,1
+624,Defibrillator,Philips,Emergency,4,11608,12,2493,5,80,Working,No,1
+625,MRI Scanner,Drager,ICU,5,24648,9,9888,3,121,Out of Service,No,1
+626,ECG Machine,Mindray,Radiology,6,6626,11,9670,10,97,Under Maintenance,Yes,1
+627,MRI Scanner,Siemens,Radiology,3,12277,1,8944,9,9,Working,Yes,1
+628,MRI Scanner,Drager,Operation Theatre,6,10686,12,699,3,254,Under Maintenance,Yes,0
+629,MRI Scanner,Philips,Emergency,1,3959,14,14534,9,321,Working,No,1
+630,Patient Monitor,Siemens,Operation Theatre,7,13355,15,10883,1,335,Out of Service,No,1
+631,Defibrillator,Mindray,ICU,6,6087,14,11710,0,85,Under Maintenance,No,1
+632,Patient Monitor,Siemens,ICU,9,20147,12,13116,1,323,Under Maintenance,No,1
+633,Defibrillator,Drager,Cardiology,3,4684,1,5115,7,161,Working,No,1
+634,Infusion Pump,Drager,Emergency,6,12391,15,5788,5,106,Out of Service,No,1
+635,Ultrasound Machine,GE Healthcare,Cardiology,10,16875,13,9479,3,307,Out of Service,Yes,1
+636,Infusion Pump,GE Healthcare,ICU,8,11165,8,2114,2,144,Under Maintenance,Yes,1
+637,Ultrasound Machine,GE Healthcare,Operation Theatre,10,10602,12,12006,9,76,Under Maintenance,No,1
+638,Infusion Pump,Siemens,Radiology,4,16846,15,9960,7,200,Working,No,1
+639,Infusion Pump,Siemens,ICU,8,14794,1,12716,9,109,Under Maintenance,Yes,1
+640,Patient Monitor,Siemens,Emergency,3,19056,13,12306,3,318,Working,Yes,1
+641,MRI Scanner,Philips,Cardiology,7,22934,10,9262,6,337,Working,Yes,1
+642,Ultrasound Machine,Siemens,Operation Theatre,9,11884,14,718,0,255,Under Maintenance,No,1
+643,MRI Scanner,Philips,Operation Theatre,5,11657,10,844,10,229,Out of Service,No,1
+644,CT Scanner,Philips,Emergency,10,20320,11,11010,8,83,Under Maintenance,No,1
+645,Ultrasound Machine,Philips,Radiology,2,22899,1,2087,6,185,Working,Yes,1
+646,Ultrasound Machine,Siemens,Emergency,3,18736,12,3742,6,53,Out of Service,Yes,1
+647,ECG Machine,Siemens,Radiology,4,14768,11,10988,2,265,Working,No,1
+648,MRI Scanner,GE Healthcare,ICU,7,4585,15,12616,8,262,Out of Service,No,1
+649,Ventilator,Philips,Radiology,5,1271,4,7492,8,149,Out of Service,Yes,1
+650,Ventilator,Philips,Operation Theatre,10,21155,5,9046,0,345,Out of Service,Yes,1
+651,ECG Machine,Drager,Operation Theatre,3,8710,7,1985,6,19,Working,No,1
+652,Defibrillator,Mindray,Emergency,10,2206,4,1679,1,346,Under Maintenance,No,1
+653,Infusion Pump,Drager,Operation Theatre,5,7003,5,2872,5,122,Out of Service,No,1
+654,Defibrillator,Siemens,Emergency,4,3031,9,13194,1,13,Under Maintenance,No,1
+655,Infusion Pump,GE Healthcare,Operation Theatre,4,2589,14,8589,5,300,Working,No,1
+656,Patient Monitor,Philips,Operation Theatre,9,710,8,12510,4,169,Working,No,1
+657,Ultrasound Machine,GE Healthcare,Radiology,9,18020,1,7392,8,306,Under Maintenance,No,1
+658,CT Scanner,Drager,Emergency,5,18815,11,9649,7,108,Out of Service,No,1
+659,Infusion Pump,Siemens,Radiology,8,6516,9,10117,6,204,Out of Service,No,1
+660,Ventilator,Drager,Cardiology,5,10221,6,2704,7,256,Working,No,1
+661,Patient Monitor,Siemens,ICU,10,14620,1,13151,1,16,Under Maintenance,No,1
+662,Ultrasound Machine,Mindray,Operation Theatre,6,11538,2,4272,0,246,Under Maintenance,No,0
+663,MRI Scanner,Philips,Emergency,7,15266,6,13491,5,19,Working,Yes,1
+664,MRI Scanner,Philips,ICU,9,12779,2,8608,0,193,Out of Service,Yes,1
+665,MRI Scanner,Mindray,ICU,4,20287,10,656,3,249,Out of Service,Yes,1
+666,MRI Scanner,Siemens,Cardiology,5,3684,15,2791,3,88,Out of Service,Yes,1
+667,Ultrasound Machine,Siemens,Emergency,8,10765,1,12399,3,325,Working,No,1
+668,Ultrasound Machine,GE Healthcare,Operation Theatre,9,1727,7,1650,9,355,Out of Service,Yes,1
+669,Ultrasound Machine,Drager,Emergency,6,3515,8,6025,0,19,Working,No,0
+670,Defibrillator,Drager,Operation Theatre,3,13003,7,7808,9,148,Out of Service,No,1
+671,ECG Machine,Mindray,Cardiology,10,3739,4,10265,6,69,Out of Service,Yes,1
+672,Ultrasound Machine,Philips,Radiology,2,24979,2,3693,7,228,Under Maintenance,No,1
+673,Infusion Pump,Mindray,Emergency,8,5778,1,5622,9,254,Out of Service,No,1
+674,MRI Scanner,GE Healthcare,Cardiology,8,13384,14,7686,8,172,Out of Service,Yes,1
+675,Ventilator,Siemens,ICU,4,12467,9,6797,1,134,Working,Yes,0
+676,Defibrillator,Siemens,Cardiology,9,17084,7,1633,5,310,Under Maintenance,No,1
+677,Patient Monitor,Mindray,Cardiology,8,22263,8,6003,7,105,Under Maintenance,No,1
+678,ECG Machine,GE Healthcare,Operation Theatre,9,17027,8,12016,4,123,Under Maintenance,No,1
+679,Defibrillator,Drager,ICU,6,1043,15,9694,0,342,Working,Yes,1
+680,MRI Scanner,GE Healthcare,Operation Theatre,4,13001,12,14804,10,81,Out of Service,No,1
+681,ECG Machine,Mindray,Emergency,10,7341,10,1186,0,177,Under Maintenance,Yes,1
+682,Patient Monitor,Philips,Emergency,6,3382,11,10689,1,231,Under Maintenance,Yes,1
+683,MRI Scanner,Philips,Cardiology,1,21832,2,5319,2,115,Working,No,0
+684,CT Scanner,Siemens,Cardiology,10,9069,5,1588,6,323,Out of Service,Yes,1
+685,Ultrasound Machine,Siemens,Operation Theatre,3,10481,13,1131,5,100,Out of Service,Yes,1
+686,Patient Monitor,GE Healthcare,Operation Theatre,2,6522,15,1719,9,330,Under Maintenance,No,1
+687,Ultrasound Machine,Drager,Radiology,4,7193,13,4524,5,344,Out of Service,Yes,1
+688,Ultrasound Machine,Siemens,Cardiology,6,4100,10,10925,5,355,Working,No,1
+689,CT Scanner,Mindray,Cardiology,5,9338,1,2269,2,350,Working,No,0
+690,MRI Scanner,GE Healthcare,ICU,8,20697,6,12322,7,11,Working,Yes,1
+691,Patient Monitor,Mindray,Radiology,4,4790,14,1599,2,8,Working,No,0
+692,Infusion Pump,Drager,Radiology,10,19431,7,1174,4,132,Working,Yes,1
+693,MRI Scanner,Mindray,Cardiology,10,7096,8,3001,4,75,Working,No,1
+694,Defibrillator,Drager,Radiology,2,18126,11,5535,4,27,Working,Yes,0
+695,Ultrasound Machine,Siemens,ICU,10,16098,1,3774,5,332,Working,No,1
+696,ECG Machine,Mindray,Emergency,6,8754,2,2540,8,163,Working,Yes,1
+697,Ultrasound Machine,Philips,Radiology,3,23356,8,7682,2,282,Under Maintenance,No,0
+698,MRI Scanner,Philips,Radiology,9,9454,14,6334,5,3,Under Maintenance,Yes,1
+699,Patient Monitor,Siemens,Operation Theatre,4,12994,4,13678,9,266,Working,Yes,1
+700,Patient Monitor,GE Healthcare,Operation Theatre,3,23051,11,3091,3,345,Working,No,0
+701,CT Scanner,Drager,Emergency,3,18880,9,12108,5,57,Out of Service,No,1
+702,Ventilator,Siemens,Cardiology,9,13287,12,14127,1,150,Under Maintenance,Yes,1
+703,CT Scanner,GE Healthcare,ICU,6,5586,11,9439,7,360,Working,No,1
+704,CT Scanner,Mindray,Cardiology,9,8901,10,4948,1,16,Out of Service,Yes,1
+705,Defibrillator,Mindray,Cardiology,2,3024,12,1928,0,194,Out of Service,No,1
+706,Ventilator,Siemens,Emergency,1,13521,14,14668,0,361,Out of Service,Yes,1
+707,Infusion Pump,GE Healthcare,Operation Theatre,9,16614,2,12202,5,363,Under Maintenance,Yes,1
+708,Ultrasound Machine,Drager,ICU,8,24317,12,14564,1,145,Working,No,1
+709,Defibrillator,Philips,Emergency,10,10503,1,2989,8,117,Under Maintenance,No,1
+710,Defibrillator,Mindray,ICU,1,21199,12,11753,7,231,Under Maintenance,Yes,1
+711,Ventilator,Philips,Radiology,3,1076,15,3360,10,135,Under Maintenance,Yes,1
+712,CT Scanner,GE Healthcare,ICU,1,2789,2,9187,4,311,Out of Service,Yes,1
+713,Ultrasound Machine,Philips,ICU,8,4281,5,13631,0,341,Under Maintenance,No,1
+714,Patient Monitor,Drager,ICU,4,9357,4,13811,3,264,Working,Yes,1
+715,Defibrillator,GE Healthcare,Operation Theatre,8,739,14,5507,6,133,Working,Yes,1
+716,CT Scanner,Drager,Emergency,5,8028,12,9880,8,306,Under Maintenance,No,1
+717,Infusion Pump,Philips,ICU,8,1744,9,5585,0,244,Under Maintenance,No,1
+718,Ultrasound Machine,Siemens,ICU,2,23061,8,3755,0,344,Under Maintenance,Yes,0
+719,CT Scanner,GE Healthcare,ICU,2,6660,7,8377,1,211,Working,No,1
+720,MRI Scanner,Drager,ICU,8,8590,9,690,1,301,Working,Yes,1
+721,MRI Scanner,Philips,Radiology,9,22867,4,4575,5,246,Under Maintenance,No,1
+722,Defibrillator,Drager,Radiology,7,23770,10,5430,3,350,Out of Service,Yes,1
+723,Ultrasound Machine,Philips,Radiology,4,9485,10,9800,6,7,Working,No,1
+724,Defibrillator,Siemens,Cardiology,6,23722,12,8611,3,53,Working,Yes,1
+725,MRI Scanner,GE Healthcare,ICU,2,23152,8,14141,7,329,Under Maintenance,No,1
+726,ECG Machine,Drager,Cardiology,5,2245,7,12599,5,345,Out of Service,No,1
+727,CT Scanner,Philips,Operation Theatre,7,2907,1,3534,1,274,Out of Service,Yes,1
+728,Ultrasound Machine,Philips,Cardiology,2,10971,2,5105,1,133,Out of Service,Yes,1
+729,ECG Machine,Mindray,Emergency,1,20184,2,9397,10,25,Out of Service,Yes,1
+730,CT Scanner,Siemens,Radiology,7,11769,9,14343,0,123,Under Maintenance,Yes,1
+731,Patient Monitor,Philips,Cardiology,4,8701,3,11463,6,207,Under Maintenance,Yes,1
+732,Defibrillator,Drager,Emergency,9,3872,8,5573,7,316,Working,Yes,1
+733,MRI Scanner,Philips,Radiology,5,20136,7,2154,0,117,Working,Yes,0
+734,ECG Machine,Mindray,ICU,2,6989,2,1817,8,6,Under Maintenance,No,1
+735,Defibrillator,Philips,Operation Theatre,2,20961,4,1402,8,255,Out of Service,Yes,1
+736,Patient Monitor,Mindray,ICU,1,3433,4,9520,8,107,Working,Yes,1
+737,Infusion Pump,Drager,Emergency,5,10686,11,7322,1,106,Under Maintenance,Yes,0
+738,Patient Monitor,Siemens,Radiology,5,13303,13,7309,0,261,Out of Service,No,1
+739,MRI Scanner,Philips,Emergency,10,639,8,615,3,239,Under Maintenance,Yes,1
+740,Patient Monitor,Philips,ICU,1,1377,15,9859,3,111,Working,Yes,1
+741,ECG Machine,GE Healthcare,Cardiology,2,14639,14,14852,2,263,Working,Yes,1
+742,Infusion Pump,GE Healthcare,Operation Theatre,9,10425,3,11556,9,149,Out of Service,No,1
+743,ECG Machine,Drager,Operation Theatre,6,20195,10,4200,5,247,Working,No,1
+744,Infusion Pump,Siemens,ICU,2,24700,1,3721,8,162,Out of Service,Yes,1
+745,Defibrillator,Philips,Cardiology,6,17016,13,1487,4,37,Under Maintenance,Yes,0
+746,Defibrillator,Drager,Emergency,5,23768,4,2207,10,240,Out of Service,No,1
+747,Ultrasound Machine,Philips,ICU,2,23086,11,1673,4,342,Under Maintenance,Yes,0
+748,Ultrasound Machine,Philips,Operation Theatre,1,20138,15,2303,1,242,Under Maintenance,No,0
+749,ECG Machine,Siemens,Operation Theatre,10,20646,14,6097,6,343,Out of Service,No,1
+750,Ventilator,Drager,Emergency,7,23114,7,10461,4,107,Working,No,1
+751,CT Scanner,GE Healthcare,Operation Theatre,5,6274,6,8814,1,135,Under Maintenance,Yes,1
+752,Patient Monitor,Philips,Radiology,5,5859,5,12293,5,64,Under Maintenance,No,1
+753,ECG Machine,Drager,ICU,6,6966,15,4486,2,324,Out of Service,Yes,1
+754,CT Scanner,Philips,ICU,2,22695,7,8787,0,302,Under Maintenance,No,1
+755,Infusion Pump,Philips,Operation Theatre,7,10498,2,6654,8,261,Out of Service,No,1
+756,CT Scanner,Siemens,Cardiology,4,4407,14,14798,1,329,Under Maintenance,No,1
+757,Ultrasound Machine,Philips,ICU,7,10694,3,11203,6,11,Under Maintenance,Yes,1
+758,Ventilator,Drager,Operation Theatre,3,19223,8,1318,3,146,Under Maintenance,No,0
+759,Patient Monitor,Philips,ICU,9,2206,1,2470,7,191,Under Maintenance,No,1
+760,Defibrillator,Philips,Operation Theatre,2,10795,6,14886,1,19,Out of Service,No,1
+761,ECG Machine,Siemens,Operation Theatre,9,3188,6,643,4,162,Out of Service,No,1
+762,Defibrillator,Philips,ICU,7,23626,2,6928,5,295,Out of Service,Yes,1
+763,Patient Monitor,Philips,Radiology,8,9142,7,14777,8,86,Under Maintenance,Yes,1
+764,Ventilator,GE Healthcare,Cardiology,10,4190,12,3883,4,87,Out of Service,No,1
+765,CT Scanner,Siemens,Radiology,5,17486,5,11993,2,348,Out of Service,Yes,1
+766,Patient Monitor,Philips,ICU,9,8645,14,6859,1,312,Under Maintenance,Yes,1
+767,Patient Monitor,Philips,Cardiology,1,13212,5,14609,7,140,Out of Service,No,1
+768,Ventilator,Siemens,Emergency,6,6338,2,5474,4,337,Out of Service,No,1
+769,ECG Machine,Philips,ICU,10,11425,11,4842,8,142,Out of Service,Yes,1
+770,ECG Machine,Philips,Cardiology,9,18124,13,10400,4,94,Out of Service,Yes,1
+771,Defibrillator,Mindray,Operation Theatre,6,21694,1,2196,4,51,Under Maintenance,Yes,0
+772,Ultrasound Machine,Mindray,Radiology,5,13169,6,1857,1,42,Out of Service,Yes,1
+773,Ultrasound Machine,Drager,Operation Theatre,10,1431,8,743,9,111,Working,No,1
+774,Patient Monitor,Drager,Radiology,4,24243,3,5134,9,159,Working,No,1
+775,Infusion Pump,Drager,Radiology,4,2789,6,11520,7,187,Out of Service,No,1
+776,ECG Machine,GE Healthcare,ICU,7,3037,2,11147,1,86,Under Maintenance,No,1
+777,Infusion Pump,Philips,Emergency,1,16105,12,9539,5,359,Out of Service,No,1
+778,ECG Machine,Drager,Emergency,2,22472,15,8316,8,336,Out of Service,Yes,1
+779,ECG Machine,Philips,Operation Theatre,3,525,5,1178,0,136,Out of Service,No,1
+780,CT Scanner,GE Healthcare,Radiology,5,13814,10,853,3,169,Under Maintenance,Yes,0
+781,Infusion Pump,Drager,Radiology,4,9102,15,8090,6,281,Working,Yes,1
+782,MRI Scanner,Drager,Emergency,3,14606,14,1070,6,60,Working,No,1
+783,Ultrasound Machine,GE Healthcare,Radiology,1,1050,7,12199,2,187,Out of Service,Yes,1
+784,Ultrasound Machine,Mindray,Operation Theatre,8,19338,12,2512,3,264,Under Maintenance,No,1
+785,Defibrillator,GE Healthcare,Radiology,10,2522,1,13340,0,237,Out of Service,No,1
+786,Patient Monitor,Drager,ICU,2,7340,12,8858,5,246,Under Maintenance,No,1
+787,MRI Scanner,Mindray,Emergency,6,15080,2,3652,2,236,Working,No,0
+788,Defibrillator,Mindray,Operation Theatre,5,12111,10,9499,0,107,Under Maintenance,No,1
+789,MRI Scanner,Siemens,Operation Theatre,9,2940,12,14614,1,192,Under Maintenance,Yes,1
+790,Ultrasound Machine,GE Healthcare,Radiology,8,1631,9,11238,3,171,Under Maintenance,No,1
+791,Defibrillator,Mindray,Radiology,1,13860,6,1314,8,187,Out of Service,No,1
+792,CT Scanner,Siemens,ICU,7,1255,6,13167,9,327,Under Maintenance,No,1
+793,ECG Machine,Philips,Operation Theatre,10,16520,2,12605,6,252,Under Maintenance,No,1
+794,Patient Monitor,Philips,Emergency,6,15669,1,13716,4,68,Working,No,1
+795,MRI Scanner,GE Healthcare,Emergency,2,1853,14,4653,4,185,Out of Service,No,1
+796,MRI Scanner,GE Healthcare,ICU,10,16566,3,11145,4,307,Under Maintenance,No,1
+797,MRI Scanner,Philips,Operation Theatre,1,4935,12,9592,1,137,Out of Service,No,1
+798,Defibrillator,Mindray,Emergency,7,8443,10,12316,4,7,Out of Service,No,1
+799,Defibrillator,Philips,Operation Theatre,1,19995,4,14850,4,97,Under Maintenance,No,1
+800,Ultrasound Machine,Siemens,Operation Theatre,6,3420,11,11939,6,317,Working,Yes,1
+801,Ultrasound Machine,Philips,Radiology,10,20123,5,7392,3,311,Working,No,1
+802,MRI Scanner,Siemens,Operation Theatre,8,17603,3,10070,5,262,Under Maintenance,Yes,1
+803,CT Scanner,GE Healthcare,Radiology,4,1666,12,1701,5,205,Working,No,1
+804,Ultrasound Machine,GE Healthcare,Emergency,8,23847,11,8065,10,298,Working,No,1
+805,Ultrasound Machine,GE Healthcare,Radiology,7,14397,2,6210,7,110,Out of Service,Yes,1
+806,Ultrasound Machine,Siemens,Operation Theatre,5,18111,6,8567,0,278,Working,Yes,1
+807,CT Scanner,Mindray,Operation Theatre,9,1943,15,2378,2,323,Working,Yes,1
+808,CT Scanner,Drager,Radiology,3,20201,5,2776,7,50,Under Maintenance,Yes,1
+809,Ventilator,Mindray,Operation Theatre,7,24142,2,3598,6,221,Under Maintenance,No,1
+810,Ultrasound Machine,Siemens,Operation Theatre,9,14607,1,12481,8,304,Out of Service,Yes,1
+811,Patient Monitor,Philips,Emergency,5,22485,5,13071,3,236,Out of Service,Yes,1
+812,Patient Monitor,Drager,Emergency,8,5385,3,3375,10,42,Out of Service,No,1
+813,CT Scanner,Mindray,Emergency,1,11942,6,10281,6,141,Under Maintenance,No,1
+814,Infusion Pump,Drager,Radiology,10,5493,9,8306,6,337,Out of Service,Yes,1
+815,Infusion Pump,Philips,Radiology,1,21539,3,2385,5,18,Working,Yes,1
+816,Patient Monitor,Drager,Radiology,9,10330,2,5260,9,122,Under Maintenance,No,1
+817,MRI Scanner,Philips,Emergency,6,21708,9,2310,3,335,Under Maintenance,Yes,0
+818,Ultrasound Machine,Philips,Radiology,1,716,3,8761,9,291,Under Maintenance,Yes,1
+819,MRI Scanner,Siemens,ICU,9,20649,5,11026,1,17,Working,No,1
+820,Infusion Pump,Philips,Emergency,5,9305,2,4655,6,47,Out of Service,No,1
+821,Patient Monitor,Drager,Emergency,1,12124,5,2875,0,46,Working,No,0
+822,Defibrillator,Mindray,Cardiology,2,12869,6,13514,1,37,Working,No,1
+823,ECG Machine,Mindray,Radiology,7,18257,14,12276,2,201,Working,No,1
+824,MRI Scanner,Siemens,ICU,2,20426,8,6111,7,210,Under Maintenance,No,1
+825,Infusion Pump,Siemens,Radiology,10,7587,10,6790,4,224,Under Maintenance,Yes,1
+826,CT Scanner,GE Healthcare,ICU,4,16444,8,6306,2,280,Under Maintenance,No,0
+827,Ultrasound Machine,Siemens,Emergency,4,15228,11,11596,6,192,Working,Yes,1
+828,MRI Scanner,Drager,ICU,9,5288,13,2901,6,37,Under Maintenance,No,1
+829,Patient Monitor,Siemens,ICU,10,5755,7,10949,6,1,Out of Service,No,1
+830,CT Scanner,GE Healthcare,Emergency,1,21031,12,13176,0,299,Working,No,1
+831,Defibrillator,Philips,ICU,10,18139,15,5642,7,136,Out of Service,No,1
+832,Defibrillator,Siemens,Cardiology,8,19815,7,5258,7,307,Under Maintenance,No,1
+833,CT Scanner,Philips,Cardiology,8,7839,11,12412,8,171,Under Maintenance,Yes,1
+834,Defibrillator,Mindray,Emergency,8,14092,6,10756,10,180,Working,Yes,1
+835,Patient Monitor,Philips,Radiology,1,23027,11,1941,6,235,Working,No,1
+836,Patient Monitor,Philips,Emergency,5,24595,7,11233,0,63,Out of Service,Yes,1
+837,MRI Scanner,Siemens,ICU,5,11893,9,4204,1,295,Out of Service,No,1
+838,Infusion Pump,GE Healthcare,Cardiology,8,6145,6,1752,2,350,Out of Service,No,1
+839,MRI Scanner,Drager,ICU,6,12452,9,11956,0,193,Working,Yes,1
+840,Infusion Pump,Siemens,Operation Theatre,1,3948,13,14821,2,149,Working,No,1
+841,Infusion Pump,GE Healthcare,ICU,8,7074,13,5212,2,269,Under Maintenance,Yes,1
+842,ECG Machine,GE Healthcare,Cardiology,3,21022,3,12257,4,327,Under Maintenance,Yes,1
+843,MRI Scanner,Siemens,ICU,6,1044,2,13202,10,3,Under Maintenance,No,1
+844,Ultrasound Machine,Mindray,Emergency,8,5292,14,8990,5,4,Working,Yes,1
+845,Infusion Pump,Mindray,Cardiology,7,14921,10,12154,7,187,Under Maintenance,No,1
+846,Infusion Pump,Mindray,Cardiology,7,4676,4,11804,5,262,Working,Yes,1
+847,Patient Monitor,Siemens,Emergency,9,17523,6,2517,9,53,Under Maintenance,Yes,1
+848,ECG Machine,Mindray,Emergency,4,2630,7,12400,2,14,Under Maintenance,No,1
+849,Patient Monitor,Drager,Operation Theatre,7,14814,5,1844,2,12,Working,Yes,1
+850,Infusion Pump,GE Healthcare,Operation Theatre,7,12397,2,1629,1,63,Out of Service,Yes,1
+851,Ultrasound Machine,GE Healthcare,Cardiology,2,4664,15,2720,0,276,Under Maintenance,No,0
+852,ECG Machine,Philips,Cardiology,3,7401,1,5066,10,250,Working,Yes,1
+853,Patient Monitor,Philips,ICU,10,15377,6,2823,10,330,Under Maintenance,Yes,1
+854,MRI Scanner,Siemens,Operation Theatre,6,14598,12,12505,0,178,Working,Yes,1
+855,Defibrillator,GE Healthcare,Operation Theatre,9,19661,7,6596,3,220,Out of Service,Yes,1
+856,Ventilator,GE Healthcare,Operation Theatre,7,8836,4,4337,8,219,Out of Service,No,1
+857,Infusion Pump,Philips,Radiology,5,23856,7,9269,2,315,Out of Service,Yes,1
+858,MRI Scanner,GE Healthcare,Operation Theatre,4,16554,1,3530,5,103,Working,No,1
+859,Defibrillator,Drager,ICU,6,10234,10,11520,2,256,Working,No,1
+860,CT Scanner,Philips,Emergency,5,10238,7,10496,6,171,Working,Yes,1
+861,Ventilator,Siemens,ICU,7,23018,11,13686,0,81,Under Maintenance,Yes,1
+862,MRI Scanner,GE Healthcare,Cardiology,3,2515,12,13199,7,160,Under Maintenance,No,1
+863,Infusion Pump,GE Healthcare,Cardiology,6,18511,14,7202,8,350,Working,Yes,1
+864,Ultrasound Machine,Siemens,Cardiology,1,15091,11,12318,6,186,Out of Service,Yes,1
+865,CT Scanner,Siemens,ICU,8,21648,8,7035,10,278,Working,No,1
+866,MRI Scanner,Drager,Cardiology,2,1670,2,7029,5,25,Working,Yes,1
+867,Defibrillator,Mindray,Operation Theatre,6,16993,5,2014,8,92,Under Maintenance,No,1
+868,Patient Monitor,GE Healthcare,Emergency,1,3872,6,1854,3,101,Out of Service,Yes,1
+869,Infusion Pump,GE Healthcare,ICU,3,10415,12,2587,7,346,Out of Service,Yes,1
+870,ECG Machine,Siemens,ICU,2,3357,8,2642,7,178,Out of Service,Yes,1
+871,CT Scanner,GE Healthcare,Operation Theatre,1,10247,4,9124,6,50,Out of Service,Yes,1
+872,CT Scanner,Drager,Radiology,5,2688,8,6696,7,84,Out of Service,No,1
+873,Ventilator,GE Healthcare,Emergency,10,21441,10,3527,2,350,Out of Service,Yes,1
+874,Ventilator,Mindray,Operation Theatre,3,11553,4,6984,7,159,Working,Yes,1
+875,Patient Monitor,GE Healthcare,Emergency,2,12877,4,10303,3,131,Under Maintenance,Yes,1
+876,MRI Scanner,Mindray,Radiology,5,14444,13,11536,1,32,Working,No,1
+877,CT Scanner,Mindray,Radiology,1,9635,1,1643,1,188,Out of Service,No,1
+878,Ventilator,GE Healthcare,ICU,8,18743,10,2323,9,65,Working,No,1
+879,CT Scanner,Siemens,Cardiology,6,7456,2,7914,0,359,Under Maintenance,Yes,0
+880,Ultrasound Machine,Mindray,Radiology,3,3949,1,14920,9,279,Out of Service,No,1
+881,Infusion Pump,Philips,Cardiology,3,19947,7,14739,10,325,Out of Service,Yes,1
+882,MRI Scanner,Drager,Emergency,6,19435,6,1798,8,15,Working,No,1
+883,CT Scanner,Philips,Emergency,7,24746,14,9485,5,139,Out of Service,No,1
+884,MRI Scanner,Mindray,Operation Theatre,1,14538,4,6956,5,183,Out of Service,No,1
+885,Patient Monitor,Philips,ICU,3,10561,7,11287,10,304,Under Maintenance,No,1
+886,Patient Monitor,Philips,Operation Theatre,7,20695,7,11215,10,96,Out of Service,No,1
+887,ECG Machine,Philips,Cardiology,3,17161,13,6076,6,150,Out of Service,Yes,1
+888,Infusion Pump,Mindray,ICU,10,3698,12,5723,6,135,Under Maintenance,Yes,1
+889,Ventilator,Siemens,Radiology,4,3239,6,11082,5,243,Working,Yes,1
+890,Infusion Pump,Philips,Emergency,2,4262,2,14287,1,323,Out of Service,Yes,1
+891,Infusion Pump,GE Healthcare,Operation Theatre,8,13091,14,2477,7,33,Working,No,1
+892,MRI Scanner,Mindray,Emergency,7,7965,1,10217,7,337,Under Maintenance,No,1
+893,MRI Scanner,Philips,Emergency,5,3063,7,14425,6,104,Working,No,1
+894,Defibrillator,Siemens,Radiology,5,17025,3,14761,10,68,Working,Yes,1
+895,Infusion Pump,Mindray,Operation Theatre,5,24298,3,7804,1,103,Working,Yes,0
+896,Ultrasound Machine,Siemens,Operation Theatre,5,18239,3,606,4,27,Working,No,0
+897,Ultrasound Machine,Siemens,Operation Theatre,5,3528,3,10697,6,54,Out of Service,Yes,1
+898,Ventilator,Siemens,Cardiology,1,11376,2,7938,4,162,Out of Service,No,1
+899,CT Scanner,Siemens,Radiology,6,11042,6,5968,2,348,Under Maintenance,No,0
+900,Ultrasound Machine,Siemens,Radiology,6,19372,14,5095,4,361,Under Maintenance,Yes,0
+901,Patient Monitor,Siemens,Radiology,4,14163,12,1270,4,286,Out of Service,No,1
+902,ECG Machine,Mindray,Operation Theatre,8,24706,5,2955,1,351,Under Maintenance,Yes,1
+903,MRI Scanner,Siemens,Emergency,5,7174,14,9252,10,203,Out of Service,Yes,1
+904,Infusion Pump,GE Healthcare,ICU,1,17465,12,5218,5,84,Out of Service,Yes,1
+905,ECG Machine,Siemens,Emergency,10,17784,15,6078,1,270,Under Maintenance,No,1
+906,Ventilator,Siemens,Emergency,7,13696,13,10294,7,121,Out of Service,Yes,1
+907,Infusion Pump,GE Healthcare,Cardiology,3,11640,8,11023,9,312,Under Maintenance,Yes,1
+908,CT Scanner,Drager,Operation Theatre,6,4260,12,5231,0,130,Under Maintenance,No,0
+909,ECG Machine,Drager,ICU,7,6026,14,11521,4,310,Out of Service,Yes,1
+910,Ventilator,Drager,Cardiology,1,17905,6,6668,6,266,Out of Service,No,1
+911,CT Scanner,Siemens,Cardiology,4,13254,6,7170,10,171,Under Maintenance,No,1
+912,MRI Scanner,GE Healthcare,Operation Theatre,9,3233,2,4111,6,296,Working,Yes,1
+913,CT Scanner,Mindray,Cardiology,10,20022,12,10270,0,208,Out of Service,No,1
+914,ECG Machine,Philips,Emergency,3,17553,7,3625,0,104,Out of Service,No,1
+915,Ultrasound Machine,GE Healthcare,Operation Theatre,8,19598,13,13325,3,165,Under Maintenance,No,1
+916,Ventilator,Drager,Radiology,1,18329,15,1993,4,181,Working,Yes,0
+917,Infusion Pump,Siemens,Cardiology,4,2179,4,4619,0,272,Under Maintenance,Yes,0
+918,Ultrasound Machine,GE Healthcare,Radiology,4,19476,5,3587,10,268,Working,Yes,1
+919,ECG Machine,Drager,ICU,3,17768,11,10235,1,268,Under Maintenance,Yes,1
+920,MRI Scanner,Drager,Cardiology,3,2168,15,2013,10,51,Working,Yes,1
+921,Ultrasound Machine,Siemens,Emergency,6,20326,13,5797,4,155,Working,No,0
+922,CT Scanner,Mindray,ICU,4,23480,6,2142,8,243,Working,No,1
+923,CT Scanner,Philips,Radiology,4,14940,15,10991,9,89,Working,Yes,1
+924,ECG Machine,Philips,Operation Theatre,7,23405,9,9548,9,99,Out of Service,No,1
+925,Defibrillator,Drager,Radiology,4,8201,2,10480,5,224,Working,No,1
+926,Ultrasound Machine,Drager,Cardiology,5,15067,10,9790,2,203,Working,Yes,1
+927,Patient Monitor,Philips,Operation Theatre,8,5465,8,8999,9,184,Under Maintenance,No,1
+928,ECG Machine,Philips,Emergency,9,15445,12,9575,1,148,Working,Yes,1
+929,Ultrasound Machine,Philips,Emergency,7,6515,15,7307,4,76,Working,Yes,1
+930,Infusion Pump,Siemens,Emergency,4,15579,6,10001,0,55,Out of Service,No,1
+931,Defibrillator,GE Healthcare,Emergency,6,17181,15,12204,0,364,Working,No,1
+932,Defibrillator,Siemens,Emergency,3,23910,1,1413,1,241,Under Maintenance,Yes,0
+933,Patient Monitor,Mindray,ICU,1,13616,5,8029,8,203,Under Maintenance,No,1
+934,ECG Machine,Drager,Radiology,3,13041,13,7900,3,309,Working,Yes,0
+935,MRI Scanner,Drager,Operation Theatre,1,24409,12,9091,7,3,Out of Service,No,1
+936,Ventilator,Mindray,ICU,1,18312,8,8541,9,241,Under Maintenance,Yes,1
+937,MRI Scanner,GE Healthcare,Radiology,10,21752,7,5222,8,326,Under Maintenance,Yes,1
+938,ECG Machine,GE Healthcare,Cardiology,2,23478,12,14220,7,73,Out of Service,No,1
+939,Ultrasound Machine,GE Healthcare,Emergency,6,24296,14,8080,4,189,Out of Service,Yes,1
+940,Ultrasound Machine,Mindray,Cardiology,2,15873,10,3634,4,137,Working,Yes,0
+941,MRI Scanner,Drager,ICU,3,13712,8,9656,7,8,Working,Yes,1
+942,MRI Scanner,GE Healthcare,Operation Theatre,8,5437,3,1536,9,260,Working,Yes,1
+943,MRI Scanner,Siemens,Operation Theatre,4,13984,15,8443,0,164,Out of Service,No,1
+944,MRI Scanner,Siemens,Cardiology,9,3028,1,3877,1,83,Working,Yes,1
+945,ECG Machine,GE Healthcare,Operation Theatre,4,3554,6,10933,9,192,Under Maintenance,No,1
+946,Ventilator,GE Healthcare,Emergency,7,7236,14,14675,7,248,Out of Service,Yes,1
+947,MRI Scanner,GE Healthcare,ICU,10,2742,12,7947,9,6,Out of Service,No,1
+948,Infusion Pump,GE Healthcare,ICU,3,24901,9,2411,9,46,Working,Yes,1
+949,Infusion Pump,GE Healthcare,Radiology,8,9275,10,12299,9,309,Under Maintenance,No,1
+950,CT Scanner,Drager,Radiology,9,1668,2,12783,7,25,Under Maintenance,Yes,1
+951,Patient Monitor,Mindray,Radiology,5,17165,11,2478,5,13,Working,No,1
+952,ECG Machine,Drager,ICU,1,16968,13,8943,10,66,Out of Service,No,1
+953,Patient Monitor,GE Healthcare,Operation Theatre,3,16007,14,14165,5,136,Under Maintenance,Yes,1
+954,Ventilator,Siemens,Operation Theatre,2,18370,1,8162,7,25,Out of Service,No,1
+955,ECG Machine,Drager,ICU,8,20704,12,8848,0,311,Under Maintenance,No,1
+956,Ultrasound Machine,Mindray,Cardiology,3,2752,15,14902,7,216,Under Maintenance,Yes,1
+957,Infusion Pump,Philips,Emergency,10,1175,11,787,7,136,Under Maintenance,Yes,1
+958,Defibrillator,Mindray,Radiology,2,3595,15,11061,2,157,Out of Service,No,1
+959,MRI Scanner,Philips,Operation Theatre,1,809,4,1331,10,299,Under Maintenance,Yes,1
+960,Ultrasound Machine,Siemens,Radiology,4,1259,2,14988,3,302,Working,No,1
+961,CT Scanner,GE Healthcare,Operation Theatre,4,24521,7,10781,3,176,Out of Service,No,1
+962,Defibrillator,Philips,ICU,5,14903,6,11098,1,164,Under Maintenance,Yes,1
+963,Ultrasound Machine,Siemens,Radiology,10,15552,5,5817,3,13,Under Maintenance,Yes,1
+964,CT Scanner,Siemens,Emergency,6,14620,2,2507,2,128,Working,Yes,0
+965,Defibrillator,Mindray,Operation Theatre,3,5444,1,9303,4,217,Under Maintenance,No,1
+966,CT Scanner,GE Healthcare,Cardiology,6,4062,4,2873,7,268,Under Maintenance,Yes,1
+967,ECG Machine,Philips,Operation Theatre,8,24716,3,8097,3,181,Out of Service,Yes,1
+968,Ultrasound Machine,Drager,Radiology,3,17120,3,6301,4,134,Working,No,0
+969,ECG Machine,Siemens,ICU,10,12950,9,14460,1,237,Working,Yes,1
+970,Infusion Pump,GE Healthcare,Radiology,8,23524,12,3491,6,181,Out of Service,Yes,1
+971,Ultrasound Machine,GE Healthcare,Cardiology,2,22094,2,8435,6,140,Under Maintenance,Yes,1
+972,ECG Machine,Drager,Cardiology,2,10571,12,13213,9,7,Under Maintenance,No,1
+973,Ultrasound Machine,GE Healthcare,Operation Theatre,3,17689,9,11913,9,186,Out of Service,Yes,1
+974,ECG Machine,Philips,Emergency,1,9559,10,8163,6,334,Working,No,1
+975,Ultrasound Machine,Philips,Emergency,3,11730,5,2373,3,164,Out of Service,Yes,1
+976,Patient Monitor,Siemens,Cardiology,9,21989,7,1597,2,43,Under Maintenance,Yes,1
+977,MRI Scanner,GE Healthcare,ICU,4,6017,15,7582,1,41,Under Maintenance,Yes,0
+978,Patient Monitor,Philips,Radiology,1,12290,8,1496,7,158,Working,No,1
+979,ECG Machine,Siemens,Emergency,9,19170,14,13756,5,250,Under Maintenance,Yes,1
+980,ECG Machine,Philips,Radiology,9,24146,11,3843,2,84,Out of Service,Yes,1
+981,ECG Machine,Siemens,Operation Theatre,1,15915,6,7634,5,111,Working,Yes,1
+982,ECG Machine,GE Healthcare,ICU,8,5951,9,2188,7,284,Working,No,1
+983,CT Scanner,Siemens,Operation Theatre,3,4142,15,7156,1,331,Out of Service,No,1
+984,Defibrillator,Siemens,Radiology,6,20823,3,11561,8,74,Out of Service,No,1
+985,Patient Monitor,Siemens,Radiology,9,3721,14,12273,6,320,Out of Service,No,1
+986,ECG Machine,GE Healthcare,Radiology,1,2730,4,3594,8,277,Under Maintenance,No,1
+987,ECG Machine,Mindray,Emergency,2,14918,4,6235,8,5,Under Maintenance,Yes,1
+988,MRI Scanner,GE Healthcare,Emergency,3,4581,10,6973,1,8,Out of Service,No,1
+989,Defibrillator,Drager,ICU,10,14932,14,13593,1,40,Working,No,1
+990,Ultrasound Machine,Philips,Operation Theatre,7,19896,3,891,8,166,Under Maintenance,No,1
+991,ECG Machine,GE Healthcare,Emergency,1,11939,15,8695,7,347,Working,No,1
+992,Defibrillator,GE Healthcare,Emergency,1,6126,9,8231,5,20,Under Maintenance,Yes,1
+993,ECG Machine,Drager,ICU,3,19711,4,13371,9,106,Under Maintenance,No,1
+994,ECG Machine,GE Healthcare,Operation Theatre,4,10469,3,5170,7,88,Out of Service,No,1
+995,Defibrillator,Siemens,Operation Theatre,3,19356,1,2237,8,217,Working,No,1
+996,ECG Machine,Siemens,Emergency,6,17869,9,2914,4,67,Out of Service,Yes,1
+997,Ultrasound Machine,Drager,Emergency,1,9133,7,9275,5,356,Under Maintenance,Yes,1
+998,Infusion Pump,GE Healthcare,Emergency,5,3542,5,7629,10,93,Under Maintenance,Yes,1
+999,Infusion Pump,Siemens,Cardiology,6,12956,12,8601,1,308,Out of Service,No,1
+1000,Ultrasound Machine,Siemens,ICU,8,6445,12,8266,4,237,Under Maintenance,No,1
